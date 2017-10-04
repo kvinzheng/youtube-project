@@ -1,10 +1,10 @@
 import thunkMiddleware from 'redux-thunk';
 import { createStore, applyMiddleware } from 'redux';
 import * as Api from '../utils/api';
-import imgurApp from '../reducers';
+import rootReducer from '../reducers';
 
 const store = createStore(
-  imgurApp,
+  rootReducer,
   window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__(),
   applyMiddleware(thunkMiddleware.withExtraArgument({ Api }),
   ),
