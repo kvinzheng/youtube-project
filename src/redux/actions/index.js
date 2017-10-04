@@ -10,6 +10,7 @@ export const loadAllData = term => {
     dispatch({ type: 'LOAD_ALL_DATA_PENDING' });
     return Api.youtubeSearch(term)
     .then((data) => {
+      console.log('data is');
       dispatch({ type: 'LOAD_ALL_DATA_FULFILLED', payload: data });
       return data;
     })
