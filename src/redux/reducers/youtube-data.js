@@ -1,7 +1,7 @@
 const youtubeData = (state = { myData: null, status: null }, action) => {
   switch (action.type) {
     case 'LOAD_ALL_DATA_FULFILLED':
-      return { ...state, myData: action.payload.data, status: 'FULFILLED' };
+      return { ...state, myData: action.payload, status: 'FULFILLED' };
     case 'LOAD_ALL_DATA_REJECTED':
       return { ...state, status: 'REJECTED' };
     case 'LOAD_ALL_DATA_PENDING':

@@ -12,6 +12,6 @@ export const youtubeSearch = term => {
     maxResults: 25,
   };
 
-  return axios(url, { params })
+  return axios.get(url, { params })
     .then(response => response.data);
 };

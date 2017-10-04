@@ -1,11 +1,10 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
-const SearchBar = ({ searchForImages }) => (
+const SearchBar = ({ loadAllData }) => (
   <div id="SearchBar">
     <form onSubmit={(event) => {
       event.preventDefault();
-      // searchForImages(event.target.InputBar.value);
+      loadAllData(event.value);
     }}
     >
       <input

@@ -1,3 +1,5 @@
+import dataConvertor from '../../helpers/video-result-helper';
+
 // load current time
 export const timeNow = () => {
   const time = new Date().toLocaleString('en-GB').split(',')[1].substring(1);
@@ -10,9 +12,8 @@ export const loadAllData = term => {
     dispatch({ type: 'LOAD_ALL_DATA_PENDING' });
     return Api.youtubeSearch(term)
     .then((data) => {
-      console.log('data is');
-      dispatch({ type: 'LOAD_ALL_DATA_FULFILLED', payload: data });
-      return data;
+      dispatch({ type: 'LOAD_ALL_DATA_FULFILLED', payload: data.items });
+      return data.items;
     })
     .catch(() => {
       dispatch({ type: 'LOAD_ALL_DATA_REJECTED' });
