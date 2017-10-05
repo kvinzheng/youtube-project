@@ -1,13 +1,12 @@
 import {connect} from 'react-redux';
 import VideoPlayer from './video-player';
-import {bindActionCreators} from 'redux';
-import {loadAllData} from '../../redux/actions/index';
 export const mapStateToProps = state => ({
-  video: state.selectedVideo.video,
-  status: state.selectedVideo.status,
+  status: state.selectedVideo.status
+    ? state.selectedVideo.status
+    : 'PENDING',
   id: state.selectedVideo.video
     ? state.selectedVideo.video.id.videoId
-    : 0,
+    : '0',
   title: state.selectedVideo.video
     ? state.selectedVideo.video.snippet.title
     : 'title',
@@ -19,8 +18,4 @@ export const mapStateToProps = state => ({
     : 'description'
 });
 
-export const mapDispatchToProps = dispatch => bindActionCreators({
-  loadAllData
-}, dispatch);
-
-export default connect(mapStateToProps)(VideoPlayer);
+export default connect(mapStateToProps, null)(VideoPlayer);

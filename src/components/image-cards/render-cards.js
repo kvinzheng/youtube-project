@@ -3,7 +3,7 @@ import React from 'react';
 const RenderCards = (videoList, selectedVideo) => {
   return (videoList.map(video => <div>
     <a id='card' onClick={() => selectedVideo(video)}>
-      <img className="image" src={video.snippet.thumbnails.medium.url} />
+      <img className="image" src={video.snippet.thumbnails.medium.url}/>
       <div className='title-card'>
         <b>{video.snippet.title}</b>
       </div>

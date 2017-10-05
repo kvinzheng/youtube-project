@@ -9,9 +9,8 @@ export const youtubeSearch = term => {
     key: API_KEY,
     q: term,
     type: 'video',
-    maxResults: 25,
+    maxResults: 25
   };
 
-  return axios.get(url, { params })
-    .then(response => response.data);
+  return axios.get(url, {params}).then(response => response.data);
 };

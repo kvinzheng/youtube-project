@@ -10,7 +10,7 @@ const NavBar = () => (
     <div className="NavLinks">
       <a href="https://github.com/kvinzheng/youtube-project">
         <div className="MenuItem">
-        GitHub Code
+          GitHub Code
         </div>
       </a>
     </div>
