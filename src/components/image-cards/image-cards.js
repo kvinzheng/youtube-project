@@ -1,10 +1,14 @@
 import React from 'react';
 import RenderCards from './render-cards';
 import PropTypes from 'prop-types';
+import YoutubeIcon from '../../assets/Youtube-icon.png';
 
 const ImageCard = ({videoList, selectedVideo}) => {
   if (!videoList.length) {
-    return <div/>
+    return (<div>
+      <p className='direction-search'>Please enter the video you want to search !</p>
+      <img className='youtube-icon' src={YoutubeIcon} alt='' />;
+    </div>)
   }
   return (
     <div className="sidebar">

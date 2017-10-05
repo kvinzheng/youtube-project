@@ -9,7 +9,7 @@
   height: 350px;
   background-color: #FFF;
   border-radius: 3px;
-  display:block;
+  display: block;
   margin: 10px;
   color: black;
   line-height: 1.4285em;
@@ -20,6 +20,16 @@
   text-overflow: ellipsis;
 }
 
+.youtube-icon {
+  margin-top: 20px;
+}
+
+.direction-search {
+  margin-top: 20px;
+  font-size: 150%;
+  font-weight: bold;
+}
+
 #card:hover {
   color: #042466;
   text-decoration: none;
@@ -27,7 +37,7 @@
 }
 
 .cards {
-  text-align:left;
+  text-align: left;
   display: flex;
   flex-wrap: wrap;
   box-sizing: inherit;
@@ -35,13 +45,15 @@
 }
 
 .title-card {
-  text-align:center;
+  text-align: center;
   margin-bottom: 5px;
   font-size: 16px;
 }
+
 .image {
   max-width: 100%;
 }
+
 .card-description {
   margin-top: 5px;
 }

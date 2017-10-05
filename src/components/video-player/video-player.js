@@ -19,9 +19,7 @@ const VideoPlayer = ({status, id, title, channelTitle, description}) => {
     )
   } else {
     return (
-      <div>
-        Please enter the video you want to search !
-      </div>
+      <div></div>
     )
   }
 };
