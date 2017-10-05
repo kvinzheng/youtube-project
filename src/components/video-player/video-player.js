@@ -8,7 +8,7 @@ const VideoPlayer = ({status, id, title, channelTitle, description}) => {
     return (
       <div className="videoPlayer">
         <div>
-          <iframe className="player" src={`https://www.youtube.com/embed/${id}`}/>
+          <iframe title={title} className="player" src={`https://www.youtube.com/embed/${id}`}/>
         </div>
         <div className="videoDescription">
           <h3 className="videoTitle">{title}</h3>

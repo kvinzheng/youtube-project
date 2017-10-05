@@ -6,6 +6,7 @@
 #card {
   border: 1px solid black;
   width: 290px;
+  height: 350px;
   background-color: #FFF;
   border-radius: 3px;
   display:block;
@@ -14,8 +15,10 @@
   line-height: 1.4285em;
   max-width: 100%;
   flex-direction: column;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
-
 
 #card:hover {
   color: #042466;
@@ -28,6 +31,7 @@
   display: flex;
   flex-wrap: wrap;
   box-sizing: inherit;
+  justify-content: center;
 }
 
 .title-card {
@@ -38,12 +42,11 @@
 .image {
   max-width: 100%;
 }
-.card-description{
+.card-description {
   margin-top: 5px;
 }
 
 .sidebar {
   margin: 40px auto 0px auto;
   width: 80%;
-  text-align: left;
 }
