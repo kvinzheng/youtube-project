@@ -1,9 +1,8 @@
 import React from 'react';
 
-const RenderCards = (props) => {
-  console.log('props=', props);
-  return (props.videoList.items.map(video => <div>
-    <a id='card' onClick={() => props.selectedVideo(video)}>
+const RenderCards = (videoList, selectedVideo) => {
+  return (videoList.map(video => <div>
+    <a id='card' onClick={() => selectedVideo(video)}>
       <img className="image" src={video.snippet.thumbnails.medium.url} />
       <div className='title-card'>
         <b>{video.snippet.title}</b>

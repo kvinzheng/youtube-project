@@ -1,18 +1,22 @@
 import React from 'react';
 import RenderCards from './render-cards';
+import PropTypes from 'prop-types';
 
-const ImageCard = props => {
-  if(!props.videoList){
+const ImageCard = ({videoList, selectedVideo}) => {
+  if(!videoList.length){
     return <div />
   }
   return (
     <div className="sidebar">
       <h5><b>Current Search Term:</b></h5>
       <div className='cards'>
-      {RenderCards(props)}
+      {RenderCards(videoList, selectedVideo)}
       </div>
     </div>
   );
 };
 
+ImageCard.propTypes = {
+  videoList: PropTypes.array
+}
 export default ImageCard;

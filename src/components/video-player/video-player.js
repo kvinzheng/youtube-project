@@ -1,5 +1,4 @@
 import React from 'react';
-import renderIf from 'render-if';
 
 const VideoPlayer = ({ videos, status, id, title, channelTitle, description }) => {
   // if the Api call's status is 'FULFILLED', I render the div with data
