@@ -1,5 +1,7 @@
 import {connect} from 'react-redux';
 import VideoPlayer from './video-player';
+import {withRouter} from 'react-router-dom';
+
 export const mapStateToProps = state => ({
   status: state.selectedVideo.status
     ? state.selectedVideo.status
@@ -18,4 +20,4 @@ export const mapStateToProps = state => ({
     : 'description'
 });
 
-export default connect(mapStateToProps, null)(VideoPlayer);
+export default connect(mapStateToProps, null)(withRouter(VideoPlayer));

@@ -1,5 +1,6 @@
 import {connect} from 'react-redux';
 import {bindActionCreators} from 'redux';
+import {withRouter} from 'react-router-dom';
 import ImageCard from './image-cards';
 import {selectedVideo} from '../../redux/actions/index';
 
@@ -13,4 +14,4 @@ export const mapDispatchToProps = dispatch => bindActionCreators({
   selectedVideo
 }, dispatch);
 
-export default connect(mapStateToProps, mapDispatchToProps)(ImageCard);
+export default connect(mapStateToProps, mapDispatchToProps)(withRouter(ImageCard));
