@@ -1,5 +1,14 @@
 import { dataConvertor } from '../../helpers/video-result-helper';
 
+export const setSearchTerm = search => {
+  return { type: 'SEARCH', payload: search };
+};
+
+export const selectedVideo = video => {
+  return { type: 'SELECTED_VIDEO', payload: video };
+};
+
+
 // load current time
 export const timeNow = () => {
   const time = new Date().toLocaleString('en-GB').split(',')[1].substring(1);
