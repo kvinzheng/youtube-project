@@ -1,3 +1,2 @@
-const dataConvertor = array => {
-  return array.map(ele => ele.snippet);
-}
+export const dataConvertor = array =>
+  array.map(ele => ele.snippet);

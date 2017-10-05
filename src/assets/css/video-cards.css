@@ -1,0 +1,50 @@
+.date {
+  font-size: 1em;
+  color: #6a6c70;
+}
+
+#card {
+  border: 1px solid black;
+  width: 290px;
+  background-color: #FFF;
+  border-radius: 3px;
+  display:block;
+  margin: 10px;
+  color: black;
+  line-height: 1.4285em;
+  max-width: 100%;
+  flex-direction: column;
+  height: 315px;
+}
+
+
+#card:hover {
+  color: #042466;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.cards {
+  text-align:left;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: inherit;
+}
+
+.title-card {
+  text-align:center;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+.image {
+  max-width: 100%;
+}
+.card-description{
+  margin-top: 5px;
+}
+
+.sidebar {
+  margin: 40px auto 0px auto;
+  width: 80%;
+  text-align: left;
+}

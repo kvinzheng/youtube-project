@@ -1,7 +1,7 @@
 import React from 'react';
 
-const SearchBar = ({ loadAllData }) => (
-  <div id="SearchBar">
+const SearchBar = ({ loadAllData }) => {
+  return (<div id="SearchBar">
     <form onSubmit={(event) => {
       event.preventDefault();
       loadAllData(event.value);
@@ -16,5 +16,6 @@ const SearchBar = ({ loadAllData }) => (
     </form>
   </div>
 );
+}
 
 export default SearchBar;

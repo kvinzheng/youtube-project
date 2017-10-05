@@ -1,0 +1,135 @@
+.player {
+  height: 232px;
+  width: 405px;
+}
+
+iframe {
+  height:500px;
+  width:500px;
+}
+
+thead {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+tbody {
+  display: block;
+  height: 450px;
+  width: 100%;
+  overflow-y: auto;
+}
+
+table {
+  background-color: #FFFFFF;
+}
+
+table thead, table tbody tr {
+  width: 100%;
+  display: table;
+  table-layout: fixed;
+}
+
+body {
+  height: 100%;
+  background-color: #eaecef;
+}
+
+.dateList-container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.dateList {
+  margin: 5px 5px 5px 5px;
+  text-align: center;
+}
+
+.table {
+  border-radius: 10px;
+  width: 60%;
+}
+
+.fill-bar {
+  position: absolute;
+  background-color: #26292d;
+  height: 13px;
+}
+
+.in-count {
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 150%;
+}
+
+
+
+.bar {
+  display: inline-block;
+  background-color: #f2f2f2;
+  width: 160px;
+  height: 13px;
+  position: relative;
+}
+
+#scroll-table {
+  overflow-y: auto;
+  height: 30px;
+  width: 500px;
+}
+
+#refresh {
+  display: inline-block;
+  text-decoration: underline;
+  cursor: pointer;
+  color: #d82222;
+}
+
+#refresh-wrapper {
+  width: 30%;
+  display: inline-block;
+  border-right: 1px solid #fffcfc;
+}
+
+#update-wrapper {
+  width: 70%;
+  text-align: left;
+  display: inline-block;
+  padding-left: 2px;
+  border-left: 1px solid #fffcfc;
+}
+
+#day-of-week {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+#date {
+  display: inline-block;
+  color: #d82222;
+  font-size: 150%;
+}
+
+#date-box {
+  vertical-align: middle;
+  height: 70px;
+  width: 30%;
+  text-align: right;
+  padding-right: 15px;
+  color: #d82222;
+}
+
+#bar-info {
+  padding-left: 0px;
+  vertical-align: middle;
+  height: 70px;
+}
