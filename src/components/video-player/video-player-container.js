@@ -1,5 +1,5 @@
 import {connect} from 'react-redux';
-import SearchResults from './search-results';
+import VideoPlayer from './video-player';
 import {bindActionCreators} from 'redux';
 import {loadAllData} from '../../redux/actions/index';
 export const mapStateToProps = state => ({
@@ -23,4 +23,4 @@ export const mapDispatchToProps = dispatch => bindActionCreators({
   loadAllData
 }, dispatch);
 
-export default connect(mapStateToProps)(SearchResults);
+export default connect(mapStateToProps)(VideoPlayer);

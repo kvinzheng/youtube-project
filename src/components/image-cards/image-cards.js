@@ -1,7 +1,7 @@
 import React from 'react';
-import RenderYouTubeCards from './video-cards';
+import RenderCards from './render-cards';
 
-const SideBar = props => {
+const ImageCard = props => {
   if(!props.videoList){
     return <div />
   }
@@ -9,10 +9,10 @@ const SideBar = props => {
     <div className="sidebar">
       <h5><b>Current Search Term:</b></h5>
       <div className='cards'>
-      {RenderYouTubeCards(props)}
+      {RenderCards(props)}
       </div>
     </div>
   );
 };
 
-export default SideBar;
+export default ImageCard;

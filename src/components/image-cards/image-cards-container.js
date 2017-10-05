@@ -1,6 +1,6 @@
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-import SideBar from './video-sidebar';
+import ImageCard from './image-cards';
 import { loadAllData, selectedVideo } from '../../redux/actions/index';
 
 export const mapStateToProps = state => ({
@@ -10,4 +10,4 @@ export const mapStateToProps = state => ({
 
 export const mapDispatchToProps = dispatch => bindActionCreators({ loadAllData, selectedVideo }, dispatch);
 
-export default connect(mapStateToProps, mapDispatchToProps)(SideBar);
+export default connect(mapStateToProps, mapDispatchToProps)(ImageCard);

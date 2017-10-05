@@ -1,7 +1,7 @@
 import React from 'react';
 import renderIf from 'render-if';
 
-const SearchResults = ({ videos, status, id, title, channelTitle, description }) => {
+const VideoPlayer = ({ videos, status, id, title, channelTitle, description }) => {
   // if the Api call's status is 'FULFILLED', I render the div with data
   // if the Api call's status is 'PENDING', I render the div with loading
   if (status === 'FULFILLED') {
@@ -20,10 +20,10 @@ const SearchResults = ({ videos, status, id, title, channelTitle, description })
   } else {
     return (
       <div>
-        Loading...
+        Please enter the video you want to search !
       </div>
     )
   }
 };
 
-export default SearchResults;
+export default VideoPlayer;
