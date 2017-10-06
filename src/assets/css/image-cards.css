@@ -1,8 +1,3 @@
-.date {
-  font-size: 1em;
-  color: #6a6c70;
-}
-
 #card {
   border: 1px solid black;
   width: 290px;
@@ -20,19 +15,15 @@
   text-overflow: ellipsis;
 }
 
-.back-to-home {
-  background: #ffffff;
-  color: #d82222;
-  border: 2px solid #34373C;
-  border-radius: 3px;
-  font-size: 20px;
-  margin: 20px auto 20px auto;
-  width: 60%;
-  display: inline-block;
-  font-size-adjust: auto;
-  text-align: center;
-  max-width: 450px;
-  min-width: 200px;
+#card:hover {
+  color: #042466;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.date {
+  font-size: 1em;
+  color: #6a6c70;
 }
 
 .youtube-icon {
@@ -48,12 +39,6 @@
   margin-top: 20px;
   font-size: 150%;
   font-weight: bold;
-}
-
-#card:hover {
-  color: #042466;
-  text-decoration: none;
-  cursor: pointer;
 }
 
 .cards {

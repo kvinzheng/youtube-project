@@ -3,12 +3,12 @@ import PropTypes from 'prop-types';
 
 const SearchBar = ({loadAllData, setSearchTerm, searchTerm}) => {
   return (
-    <div id="SearchBar">
+    <div id="search-bar">
       <form onSubmit={(event) => {
         event.preventDefault();
         loadAllData(searchTerm);
       }}>
-        <input type="text" id="InputBar" placeholder="Search your youtube videos here" onChange={event => setSearchTerm(event.target.value)}/>
+        <input type="text" id="input-bar" placeholder="Search your youtube videos here" onChange={event => setSearchTerm(event.target.value)}/>
         <button className="search-button">Search</button>
       </form>
     </div>
