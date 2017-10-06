@@ -9,10 +9,10 @@ import './App.css';
 const App = () => (
   <BrowserRouter>
     <div className="App">
-      <Route path='/' component={NavBar} />
-      <Route exact path='/' component={SearchBar} />
-      <Route exact path ='/' component={ImageCard} />
-      <Route path='/video' component={VideoPlayer} />
+      <Route path='/' component={NavBar}/>
+      <Route exact path='/' component={SearchBar}/>
+      <Route exact path='/' component={ImageCard}/>
+      <Route path='/video' component={VideoPlayer}/>
     </div>
   </BrowserRouter>
 );

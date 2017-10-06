@@ -1,0 +1,3123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateList Component should render with props passed in 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <ImageCard
+    history={
+        Object {
+            "push": [Function],
+          }
+    }
+    selectedVideo={[Function]}
+    videoList={
+        Array [
+            Object {
+              "etag": "\\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Cdphs-sy_uELwbqUW-uWHjQcnqo\\"",
+              "id": Object {
+                "kind": "youtube#video",
+                "videoId": "hY7m5jjJ9mM",
+              },
+              "kind": "youtube#searchResult",
+              "snippet": Object {
+                "channelId": "UC9obdDRxQkmn_4YpcBMTYLw",
+                "channelTitle": "Tiger FunnyWorks",
+                "description": "HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-05-31T09:30:02.000Z",
+                "thumbnails": Object {
+                  "default": Object {
+                    "height": 90,
+                    "url": "https://i.ytimg.com/vi/hY7m5jjJ9mM/default.jpg",
+                    "width": 120,
+                  },
+                  "high": Object {
+                    "height": 360,
+                    "url": "https://i.ytimg.com/vi/hY7m5jjJ9mM/hqdefault.jpg",
+                    "width": 480,
+                  },
+                  "medium": Object {
+                    "height": 180,
+                    "url": "https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg",
+                    "width": 320,
+                  },
+                },
+                "title": "CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation",
+              },
+            },
+            Object {
+              "etag": "\\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/u2n3wez7ljBkwPSV6WkGrkhsBlI\\"",
+              "id": Object {
+                "kind": "youtube#video",
+                "videoId": "5dsGWM5XGdg",
+              },
+              "kind": "youtube#searchResult",
+              "snippet": Object {
+                "channelId": "UCKy3MG7_If9KlVuvw3rPMfw",
+                "channelTitle": "Tiger Productions",
+                "description": "Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2016-12-24T10:30:00.000Z",
+                "thumbnails": Object {
+                  "default": Object {
+                    "height": 90,
+                    "url": "https://i.ytimg.com/vi/5dsGWM5XGdg/default.jpg",
+                    "width": 120,
+                  },
+                  "high": Object {
+                    "height": 360,
+                    "url": "https://i.ytimg.com/vi/5dsGWM5XGdg/hqdefault.jpg",
+                    "width": 480,
+                  },
+                  "medium": Object {
+                    "height": 180,
+                    "url": "https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg",
+                    "width": 320,
+                  },
+                },
+                "title": "Cats are so funny you will die laughing - Funny cat compilation",
+              },
+            },
+            Object {
+              "etag": "\\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/0ej2DuHdmsgJLqZkGmegnoBrISU\\"",
+              "id": Object {
+                "kind": "youtube#video",
+                "videoId": "tntOCGkgt98",
+              },
+              "kind": "youtube#searchResult",
+              "snippet": Object {
+                "channelId": "UCMW0kSYo44uRxvE21JqEWTQ",
+                "channelTitle": "Forget Your Sadness",
+                "description": "Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2013-12-31T05:21:57.000Z",
+                "thumbnails": Object {
+                  "default": Object {
+                    "height": 90,
+                    "url": "https://i.ytimg.com/vi/tntOCGkgt98/default.jpg",
+                    "width": 120,
+                  },
+                  "high": Object {
+                    "height": 360,
+                    "url": "https://i.ytimg.com/vi/tntOCGkgt98/hqdefault.jpg",
+                    "width": 480,
+                  },
+                  "medium": Object {
+                    "height": 180,
+                    "url": "https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg",
+                    "width": 320,
+                  },
+                },
+                "title": "Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1",
+              },
+            },
+            Object {
+              "etag": "\\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/z7OlabMtkYnYM6gpAKDiCkAEaEk\\"",
+              "id": Object {
+                "kind": "youtube#video",
+                "videoId": "njSyHmcEdkw",
+              },
+              "kind": "youtube#searchResult",
+              "snippet": Object {
+                "channelId": "UCdmnOJ63TCe2AEdeFTYiweA",
+                "channelTitle": "Funny Vines",
+                "description": "CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2016-06-26T13:50:56.000Z",
+                "thumbnails": Object {
+                  "default": Object {
+                    "height": 90,
+                    "url": "https://i.ytimg.com/vi/njSyHmcEdkw/default.jpg",
+                    "width": 120,
+                  },
+                  "high": Object {
+                    "height": 360,
+                    "url": "https://i.ytimg.com/vi/njSyHmcEdkw/hqdefault.jpg",
+                    "width": 480,
+                  },
+                  "medium": Object {
+                    "height": 180,
+                    "url": "https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg",
+                    "width": 320,
+                  },
+                },
+                "title": "Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines",
+              },
+            },
+            Object {
+              "etag": "\\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/3BYpEDhVQCZ3B2FmPQVPbZK5FwI\\"",
+              "id": Object {
+                "kind": "youtube#video",
+                "videoId": "1Wh8RzcQZr4",
+              },
+              "kind": "youtube#searchResult",
+              "snippet": Object {
+                "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+                "channelTitle": "FailArmy",
+                "description": "Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-05-02T12:00:00.000Z",
+                "thumbnails": Object {
+                  "default": Object {
+                    "height": 90,
+                    "url": "https://i.ytimg.com/vi/1Wh8RzcQZr4/default.jpg",
+                    "width": 120,
+                  },
+                  "high": Object {
+                    "height": 360,
+                    "url": "https://i.ytimg.com/vi/1Wh8RzcQZr4/hqdefault.jpg",
+                    "width": 480,
+                  },
+                  "medium": Object {
+                    "height": 180,
+                    "url": "https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg",
+                    "width": 320,
+                  },
+                },
+                "title": "Hilarious Cat Fails (April 2017)",
+              },
+            },
+          ]
+    }
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": null,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <h5>
+          <b>
+                    Current Search Term:
+          </b>
+</h5>,
+        <div
+          className="cards"
+>
+          <div>
+                    <a
+                              id="card"
+                              onClick={[Function]}
+                    >
+                              <img
+                                        alt=""
+                                        className="image"
+                                        src="https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg"
+                              />
+                              <div
+                                        className="title-card"
+                              >
+                                        <b>
+                                                  CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
+                                        </b>
+                              </div>
+                              <div>
+                                        <span
+                                                  className="date"
+                                        >
+                                                  2017-05-31T09:30:02.000Z
+                                        </span>
+                              </div>
+                              <div
+                                        className="card-description"
+                              >
+                                        <p>
+                                                  <b>
+                                                            Description:
+                                                  </b>
+                                                  HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
+                                        </p>
+                              </div>
+                    </a>
+          </div>
+          <div>
+                    <a
+                              id="card"
+                              onClick={[Function]}
+                    >
+                              <img
+                                        alt=""
+                                        className="image"
+                                        src="https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg"
+                              />
+                              <div
+                                        className="title-card"
+                              >
+                                        <b>
+                                                  Cats are so funny you will die laughing - Funny cat compilation
+                                        </b>
+                              </div>
+                              <div>
+                                        <span
+                                                  className="date"
+                                        >
+                                                  2016-12-24T10:30:00.000Z
+                                        </span>
+                              </div>
+                              <div
+                                        className="card-description"
+                              >
+                                        <p>
+                                                  <b>
+                                                            Description:
+                                                  </b>
+                                                  Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
+                                        </p>
+                              </div>
+                    </a>
+          </div>
+          <div>
+                    <a
+                              id="card"
+                              onClick={[Function]}
+                    >
+                              <img
+                                        alt=""
+                                        className="image"
+                                        src="https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg"
+                              />
+                              <div
+                                        className="title-card"
+                              >
+                                        <b>
+                                                  Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
+                                        </b>
+                              </div>
+                              <div>
+                                        <span
+                                                  className="date"
+                                        >
+                                                  2013-12-31T05:21:57.000Z
+                                        </span>
+                              </div>
+                              <div
+                                        className="card-description"
+                              >
+                                        <p>
+                                                  <b>
+                                                            Description:
+                                                  </b>
+                                                  Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
+                                        </p>
+                              </div>
+                    </a>
+          </div>
+          <div>
+                    <a
+                              id="card"
+                              onClick={[Function]}
+                    >
+                              <img
+                                        alt=""
+                                        className="image"
+                                        src="https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg"
+                              />
+                              <div
+                                        className="title-card"
+                              >
+                                        <b>
+                                                  Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
+                                        </b>
+                              </div>
+                              <div>
+                                        <span
+                                                  className="date"
+                                        >
+                                                  2016-06-26T13:50:56.000Z
+                                        </span>
+                              </div>
+                              <div
+                                        className="card-description"
+                              >
+                                        <p>
+                                                  <b>
+                                                            Description:
+                                                  </b>
+                                                  CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
+                                        </p>
+                              </div>
+                    </a>
+          </div>
+          <div>
+                    <a
+                              id="card"
+                              onClick={[Function]}
+                    >
+                              <img
+                                        alt=""
+                                        className="image"
+                                        src="https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg"
+                              />
+                              <div
+                                        className="title-card"
+                              >
+                                        <b>
+                                                  Hilarious Cat Fails (April 2017)
+                                        </b>
+                              </div>
+                              <div>
+                                        <span
+                                                  className="date"
+                                        >
+                                                  2017-05-02T12:00:00.000Z
+                                        </span>
+                              </div>
+                              <div
+                                        className="card-description"
+                              >
+                                        <p>
+                                                  <b>
+                                                            Description:
+                                                  </b>
+                                                  Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
+                                        </p>
+                              </div>
+                    </a>
+          </div>
+</div>,
+      ],
+      "className": "sidebar",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": null,
+        "nodeType": "host",
+        "props": Object {
+          "children": <b>
+            Current Search Term:
+</b>,
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": null,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Current Search Term:",
+          },
+          "ref": null,
+          "rendered": "Current Search Term:",
+          "type": "b",
+        },
+        "type": "h5",
+      },
+      Object {
+        "instance": null,
+        "key": null,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <div>
+              <a
+                            id="card"
+                            onClick={[Function]}
+              >
+                            <img
+                                          alt=""
+                                          className="image"
+                                          src="https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg"
+                            />
+                            <div
+                                          className="title-card"
+                            >
+                                          <b>
+                                                        CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
+                                          </b>
+                            </div>
+                            <div>
+                                          <span
+                                                        className="date"
+                                          >
+                                                        2017-05-31T09:30:02.000Z
+                                          </span>
+                            </div>
+                            <div
+                                          className="card-description"
+                            >
+                                          <p>
+                                                        <b>
+                                                                      Description:
+                                                        </b>
+                                                        HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
+                                          </p>
+                            </div>
+              </a>
+</div>,
+            <div>
+              <a
+                            id="card"
+                            onClick={[Function]}
+              >
+                            <img
+                                          alt=""
+                                          className="image"
+                                          src="https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg"
+                            />
+                            <div
+                                          className="title-card"
+                            >
+                                          <b>
+                                                        Cats are so funny you will die laughing - Funny cat compilation
+                                          </b>
+                            </div>
+                            <div>
+                                          <span
+                                                        className="date"
+                                          >
+                                                        2016-12-24T10:30:00.000Z
+                                          </span>
+                            </div>
+                            <div
+                                          className="card-description"
+                            >
+                                          <p>
+                                                        <b>
+                                                                      Description:
+                                                        </b>
+                                                        Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
+                                          </p>
+                            </div>
+              </a>
+</div>,
+            <div>
+              <a
+                            id="card"
+                            onClick={[Function]}
+              >
+                            <img
+                                          alt=""
+                                          className="image"
+                                          src="https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg"
+                            />
+                            <div
+                                          className="title-card"
+                            >
+                                          <b>
+                                                        Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
+                                          </b>
+                            </div>
+                            <div>
+                                          <span
+                                                        className="date"
+                                          >
+                                                        2013-12-31T05:21:57.000Z
+                                          </span>
+                            </div>
+                            <div
+                                          className="card-description"
+                            >
+                                          <p>
+                                                        <b>
+                                                                      Description:
+                                                        </b>
+                                                        Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
+                                          </p>
+                            </div>
+              </a>
+</div>,
+            <div>
+              <a
+                            id="card"
+                            onClick={[Function]}
+              >
+                            <img
+                                          alt=""
+                                          className="image"
+                                          src="https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg"
+                            />
+                            <div
+                                          className="title-card"
+                            >
+                                          <b>
+                                                        Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
+                                          </b>
+                            </div>
+                            <div>
+                                          <span
+                                                        className="date"
+                                          >
+                                                        2016-06-26T13:50:56.000Z
+                                          </span>
+                            </div>
+                            <div
+                                          className="card-description"
+                            >
+                                          <p>
+                                                        <b>
+                                                                      Description:
+                                                        </b>
+                                                        CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
+                                          </p>
+                            </div>
+              </a>
+</div>,
+            <div>
+              <a
+                            id="card"
+                            onClick={[Function]}
+              >
+                            <img
+                                          alt=""
+                                          className="image"
+                                          src="https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg"
+                            />
+                            <div
+                                          className="title-card"
+                            >
+                                          <b>
+                                                        Hilarious Cat Fails (April 2017)
+                                          </b>
+                            </div>
+                            <div>
+                                          <span
+                                                        className="date"
+                                          >
+                                                        2017-05-02T12:00:00.000Z
+                                          </span>
+                            </div>
+                            <div
+                                          className="card-description"
+                            >
+                                          <p>
+                                                        <b>
+                                                                      Description:
+                                                        </b>
+                                                        Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
+                                          </p>
+                            </div>
+              </a>
+</div>,
+          ],
+          "className": "cards",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": "0",
+            "nodeType": "host",
+            "props": Object {
+              "children": <a
+                id="card"
+                onClick={[Function]}
+>
+                <img
+                                alt=""
+                                className="image"
+                                src="https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg"
+                />
+                <div
+                                className="title-card"
+                >
+                                <b>
+                                                CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
+                                </b>
+                </div>
+                <div>
+                                <span
+                                                className="date"
+                                >
+                                                2017-05-31T09:30:02.000Z
+                                </span>
+                </div>
+                <div
+                                className="card-description"
+                >
+                                <p>
+                                                <b>
+                                                                Description:
+                                                </b>
+                                                HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
+                                </p>
+                </div>
+</a>,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": null,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <img
+                    alt=""
+                    className="image"
+                    src="https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg"
+/>,
+                  <div
+                    className="title-card"
+>
+                    <b>
+                                        CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
+                    </b>
+</div>,
+                  <div>
+                    <span
+                                        className="date"
+                    >
+                                        2017-05-31T09:30:02.000Z
+                    </span>
+</div>,
+                  <div
+                    className="card-description"
+>
+                    <p>
+                                        <b>
+                                                            Description:
+                                        </b>
+                                        HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
+                    </p>
+</div>,
+                ],
+                "id": "card",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "image",
+                    "src": "https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <b>
+                      CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
+</b>,
+                    "className": "title-card",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation",
+                    },
+                    "ref": null,
+                    "rendered": "CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation",
+                    "type": "b",
+                  },
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <span
+                      className="date"
+>
+                      2017-05-31T09:30:02.000Z
+</span>,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "2017-05-31T09:30:02.000Z",
+                      "className": "date",
+                    },
+                    "ref": null,
+                    "rendered": "2017-05-31T09:30:02.000Z",
+                    "type": "span",
+                  },
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <p>
+                      <b>
+                                            Description:
+                      </b>
+                      HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
+</p>,
+                    "className": "card-description",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <b>
+                          Description:
+</b>,
+                        "HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...",
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": null,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Description:",
+                        },
+                        "ref": null,
+                        "rendered": "Description:",
+                        "type": "b",
+                      },
+                      "HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...",
+                    ],
+                    "type": "p",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "a",
+            },
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": "1",
+            "nodeType": "host",
+            "props": Object {
+              "children": <a
+                id="card"
+                onClick={[Function]}
+>
+                <img
+                                alt=""
+                                className="image"
+                                src="https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg"
+                />
+                <div
+                                className="title-card"
+                >
+                                <b>
+                                                Cats are so funny you will die laughing - Funny cat compilation
+                                </b>
+                </div>
+                <div>
+                                <span
+                                                className="date"
+                                >
+                                                2016-12-24T10:30:00.000Z
+                                </span>
+                </div>
+                <div
+                                className="card-description"
+                >
+                                <p>
+                                                <b>
+                                                                Description:
+                                                </b>
+                                                Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
+                                </p>
+                </div>
+</a>,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": null,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <img
+                    alt=""
+                    className="image"
+                    src="https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg"
+/>,
+                  <div
+                    className="title-card"
+>
+                    <b>
+                                        Cats are so funny you will die laughing - Funny cat compilation
+                    </b>
+</div>,
+                  <div>
+                    <span
+                                        className="date"
+                    >
+                                        2016-12-24T10:30:00.000Z
+                    </span>
+</div>,
+                  <div
+                    className="card-description"
+>
+                    <p>
+                                        <b>
+                                                            Description:
+                                        </b>
+                                        Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
+                    </p>
+</div>,
+                ],
+                "id": "card",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "image",
+                    "src": "https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <b>
+                      Cats are so funny you will die laughing - Funny cat compilation
+</b>,
+                    "className": "title-card",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Cats are so funny you will die laughing - Funny cat compilation",
+                    },
+                    "ref": null,
+                    "rendered": "Cats are so funny you will die laughing - Funny cat compilation",
+                    "type": "b",
+                  },
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <span
+                      className="date"
+>
+                      2016-12-24T10:30:00.000Z
+</span>,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "2016-12-24T10:30:00.000Z",
+                      "className": "date",
+                    },
+                    "ref": null,
+                    "rendered": "2016-12-24T10:30:00.000Z",
+                    "type": "span",
+                  },
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <p>
+                      <b>
+                                            Description:
+                      </b>
+                      Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
+</p>,
+                    "className": "card-description",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <b>
+                          Description:
+</b>,
+                        "Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...",
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": null,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Description:",
+                        },
+                        "ref": null,
+                        "rendered": "Description:",
+                        "type": "b",
+                      },
+                      "Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...",
+                    ],
+                    "type": "p",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "a",
+            },
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": "2",
+            "nodeType": "host",
+            "props": Object {
+              "children": <a
+                id="card"
+                onClick={[Function]}
+>
+                <img
+                                alt=""
+                                className="image"
+                                src="https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg"
+                />
+                <div
+                                className="title-card"
+                >
+                                <b>
+                                                Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
+                                </b>
+                </div>
+                <div>
+                                <span
+                                                className="date"
+                                >
+                                                2013-12-31T05:21:57.000Z
+                                </span>
+                </div>
+                <div
+                                className="card-description"
+                >
+                                <p>
+                                                <b>
+                                                                Description:
+                                                </b>
+                                                Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
+                                </p>
+                </div>
+</a>,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": null,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <img
+                    alt=""
+                    className="image"
+                    src="https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg"
+/>,
+                  <div
+                    className="title-card"
+>
+                    <b>
+                                        Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
+                    </b>
+</div>,
+                  <div>
+                    <span
+                                        className="date"
+                    >
+                                        2013-12-31T05:21:57.000Z
+                    </span>
+</div>,
+                  <div
+                    className="card-description"
+>
+                    <p>
+                                        <b>
+                                                            Description:
+                                        </b>
+                                        Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
+                    </p>
+</div>,
+                ],
+                "id": "card",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "image",
+                    "src": "https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <b>
+                      Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
+</b>,
+                    "className": "title-card",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1",
+                    },
+                    "ref": null,
+                    "rendered": "Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1",
+                    "type": "b",
+                  },
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <span
+                      className="date"
+>
+                      2013-12-31T05:21:57.000Z
+</span>,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "2013-12-31T05:21:57.000Z",
+                      "className": "date",
+                    },
+                    "ref": null,
+                    "rendered": "2013-12-31T05:21:57.000Z",
+                    "type": "span",
+                  },
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <p>
+                      <b>
+                                            Description:
+                      </b>
+                      Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
+</p>,
+                    "className": "card-description",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <b>
+                          Description:
+</b>,
+                        "Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...",
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": null,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Description:",
+                        },
+                        "ref": null,
+                        "rendered": "Description:",
+                        "type": "b",
+                      },
+                      "Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...",
+                    ],
+                    "type": "p",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "a",
+            },
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": "3",
+            "nodeType": "host",
+            "props": Object {
+              "children": <a
+                id="card"
+                onClick={[Function]}
+>
+                <img
+                                alt=""
+                                className="image"
+                                src="https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg"
+                />
+                <div
+                                className="title-card"
+                >
+                                <b>
+                                                Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
+                                </b>
+                </div>
+                <div>
+                                <span
+                                                className="date"
+                                >
+                                                2016-06-26T13:50:56.000Z
+                                </span>
+                </div>
+                <div
+                                className="card-description"
+                >
+                                <p>
+                                                <b>
+                                                                Description:
+                                                </b>
+                                                CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
+                                </p>
+                </div>
+</a>,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": null,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <img
+                    alt=""
+                    className="image"
+                    src="https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg"
+/>,
+                  <div
+                    className="title-card"
+>
+                    <b>
+                                        Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
+                    </b>
+</div>,
+                  <div>
+                    <span
+                                        className="date"
+                    >
+                                        2016-06-26T13:50:56.000Z
+                    </span>
+</div>,
+                  <div
+                    className="card-description"
+>
+                    <p>
+                                        <b>
+                                                            Description:
+                                        </b>
+                                        CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
+                    </p>
+</div>,
+                ],
+                "id": "card",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "image",
+                    "src": "https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <b>
+                      Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
+</b>,
+                    "className": "title-card",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines",
+                    },
+                    "ref": null,
+                    "rendered": "Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines",
+                    "type": "b",
+                  },
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <span
+                      className="date"
+>
+                      2016-06-26T13:50:56.000Z
+</span>,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "2016-06-26T13:50:56.000Z",
+                      "className": "date",
+                    },
+                    "ref": null,
+                    "rendered": "2016-06-26T13:50:56.000Z",
+                    "type": "span",
+                  },
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <p>
+                      <b>
+                                            Description:
+                      </b>
+                      CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
+</p>,
+                    "className": "card-description",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <b>
+                          Description:
+</b>,
+                        "CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...",
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": null,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Description:",
+                        },
+                        "ref": null,
+                        "rendered": "Description:",
+                        "type": "b",
+                      },
+                      "CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...",
+                    ],
+                    "type": "p",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "a",
+            },
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": "4",
+            "nodeType": "host",
+            "props": Object {
+              "children": <a
+                id="card"
+                onClick={[Function]}
+>
+                <img
+                                alt=""
+                                className="image"
+                                src="https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg"
+                />
+                <div
+                                className="title-card"
+                >
+                                <b>
+                                                Hilarious Cat Fails (April 2017)
+                                </b>
+                </div>
+                <div>
+                                <span
+                                                className="date"
+                                >
+                                                2017-05-02T12:00:00.000Z
+                                </span>
+                </div>
+                <div
+                                className="card-description"
+                >
+                                <p>
+                                                <b>
+                                                                Description:
+                                                </b>
+                                                Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
+                                </p>
+                </div>
+</a>,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": null,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <img
+                    alt=""
+                    className="image"
+                    src="https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg"
+/>,
+                  <div
+                    className="title-card"
+>
+                    <b>
+                                        Hilarious Cat Fails (April 2017)
+                    </b>
+</div>,
+                  <div>
+                    <span
+                                        className="date"
+                    >
+                                        2017-05-02T12:00:00.000Z
+                    </span>
+</div>,
+                  <div
+                    className="card-description"
+>
+                    <p>
+                                        <b>
+                                                            Description:
+                                        </b>
+                                        Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
+                    </p>
+</div>,
+                ],
+                "id": "card",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "image",
+                    "src": "https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <b>
+                      Hilarious Cat Fails (April 2017)
+</b>,
+                    "className": "title-card",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Hilarious Cat Fails (April 2017)",
+                    },
+                    "ref": null,
+                    "rendered": "Hilarious Cat Fails (April 2017)",
+                    "type": "b",
+                  },
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <span
+                      className="date"
+>
+                      2017-05-02T12:00:00.000Z
+</span>,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "2017-05-02T12:00:00.000Z",
+                      "className": "date",
+                    },
+                    "ref": null,
+                    "rendered": "2017-05-02T12:00:00.000Z",
+                    "type": "span",
+                  },
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <p>
+                      <b>
+                                            Description:
+                      </b>
+                      Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
+</p>,
+                    "className": "card-description",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <b>
+                          Description:
+</b>,
+                        "Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...",
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": null,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Description:",
+                        },
+                        "ref": null,
+                        "rendered": "Description:",
+                        "type": "b",
+                      },
+                      "Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...",
+                    ],
+                    "type": "p",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "a",
+            },
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": null,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <h5>
+            <b>
+                        Current Search Term:
+            </b>
+</h5>,
+          <div
+            className="cards"
+>
+            <div>
+                        <a
+                                    id="card"
+                                    onClick={[Function]}
+                        >
+                                    <img
+                                                alt=""
+                                                className="image"
+                                                src="https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg"
+                                    />
+                                    <div
+                                                className="title-card"
+                                    >
+                                                <b>
+                                                            CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
+                                                </b>
+                                    </div>
+                                    <div>
+                                                <span
+                                                            className="date"
+                                                >
+                                                            2017-05-31T09:30:02.000Z
+                                                </span>
+                                    </div>
+                                    <div
+                                                className="card-description"
+                                    >
+                                                <p>
+                                                            <b>
+                                                                        Description:
+                                                            </b>
+                                                            HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
+                                                </p>
+                                    </div>
+                        </a>
+            </div>
+            <div>
+                        <a
+                                    id="card"
+                                    onClick={[Function]}
+                        >
+                                    <img
+                                                alt=""
+                                                className="image"
+                                                src="https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg"
+                                    />
+                                    <div
+                                                className="title-card"
+                                    >
+                                                <b>
+                                                            Cats are so funny you will die laughing - Funny cat compilation
+                                                </b>
+                                    </div>
+                                    <div>
+                                                <span
+                                                            className="date"
+                                                >
+                                                            2016-12-24T10:30:00.000Z
+                                                </span>
+                                    </div>
+                                    <div
+                                                className="card-description"
+                                    >
+                                                <p>
+                                                            <b>
+                                                                        Description:
+                                                            </b>
+                                                            Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
+                                                </p>
+                                    </div>
+                        </a>
+            </div>
+            <div>
+                        <a
+                                    id="card"
+                                    onClick={[Function]}
+                        >
+                                    <img
+                                                alt=""
+                                                className="image"
+                                                src="https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg"
+                                    />
+                                    <div
+                                                className="title-card"
+                                    >
+                                                <b>
+                                                            Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
+                                                </b>
+                                    </div>
+                                    <div>
+                                                <span
+                                                            className="date"
+                                                >
+                                                            2013-12-31T05:21:57.000Z
+                                                </span>
+                                    </div>
+                                    <div
+                                                className="card-description"
+                                    >
+                                                <p>
+                                                            <b>
+                                                                        Description:
+                                                            </b>
+                                                            Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
+                                                </p>
+                                    </div>
+                        </a>
+            </div>
+            <div>
+                        <a
+                                    id="card"
+                                    onClick={[Function]}
+                        >
+                                    <img
+                                                alt=""
+                                                className="image"
+                                                src="https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg"
+                                    />
+                                    <div
+                                                className="title-card"
+                                    >
+                                                <b>
+                                                            Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
+                                                </b>
+                                    </div>
+                                    <div>
+                                                <span
+                                                            className="date"
+                                                >
+                                                            2016-06-26T13:50:56.000Z
+                                                </span>
+                                    </div>
+                                    <div
+                                                className="card-description"
+                                    >
+                                                <p>
+                                                            <b>
+                                                                        Description:
+                                                            </b>
+                                                            CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
+                                                </p>
+                                    </div>
+                        </a>
+            </div>
+            <div>
+                        <a
+                                    id="card"
+                                    onClick={[Function]}
+                        >
+                                    <img
+                                                alt=""
+                                                className="image"
+                                                src="https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg"
+                                    />
+                                    <div
+                                                className="title-card"
+                                    >
+                                                <b>
+                                                            Hilarious Cat Fails (April 2017)
+                                                </b>
+                                    </div>
+                                    <div>
+                                                <span
+                                                            className="date"
+                                                >
+                                                            2017-05-02T12:00:00.000Z
+                                                </span>
+                                    </div>
+                                    <div
+                                                className="card-description"
+                                    >
+                                                <p>
+                                                            <b>
+                                                                        Description:
+                                                            </b>
+                                                            Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
+                                                </p>
+                                    </div>
+                        </a>
+            </div>
+</div>,
+        ],
+        "className": "sidebar",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": null,
+          "nodeType": "host",
+          "props": Object {
+            "children": <b>
+              Current Search Term:
+</b>,
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": null,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Current Search Term:",
+            },
+            "ref": null,
+            "rendered": "Current Search Term:",
+            "type": "b",
+          },
+          "type": "h5",
+        },
+        Object {
+          "instance": null,
+          "key": null,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <div>
+                <a
+                                id="card"
+                                onClick={[Function]}
+                >
+                                <img
+                                                alt=""
+                                                className="image"
+                                                src="https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg"
+                                />
+                                <div
+                                                className="title-card"
+                                >
+                                                <b>
+                                                                CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
+                                                </b>
+                                </div>
+                                <div>
+                                                <span
+                                                                className="date"
+                                                >
+                                                                2017-05-31T09:30:02.000Z
+                                                </span>
+                                </div>
+                                <div
+                                                className="card-description"
+                                >
+                                                <p>
+                                                                <b>
+                                                                                Description:
+                                                                </b>
+                                                                HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
+                                                </p>
+                                </div>
+                </a>
+</div>,
+              <div>
+                <a
+                                id="card"
+                                onClick={[Function]}
+                >
+                                <img
+                                                alt=""
+                                                className="image"
+                                                src="https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg"
+                                />
+                                <div
+                                                className="title-card"
+                                >
+                                                <b>
+                                                                Cats are so funny you will die laughing - Funny cat compilation
+                                                </b>
+                                </div>
+                                <div>
+                                                <span
+                                                                className="date"
+                                                >
+                                                                2016-12-24T10:30:00.000Z
+                                                </span>
+                                </div>
+                                <div
+                                                className="card-description"
+                                >
+                                                <p>
+                                                                <b>
+                                                                                Description:
+                                                                </b>
+                                                                Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
+                                                </p>
+                                </div>
+                </a>
+</div>,
+              <div>
+                <a
+                                id="card"
+                                onClick={[Function]}
+                >
+                                <img
+                                                alt=""
+                                                className="image"
+                                                src="https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg"
+                                />
+                                <div
+                                                className="title-card"
+                                >
+                                                <b>
+                                                                Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
+                                                </b>
+                                </div>
+                                <div>
+                                                <span
+                                                                className="date"
+                                                >
+                                                                2013-12-31T05:21:57.000Z
+                                                </span>
+                                </div>
+                                <div
+                                                className="card-description"
+                                >
+                                                <p>
+                                                                <b>
+                                                                                Description:
+                                                                </b>
+                                                                Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
+                                                </p>
+                                </div>
+                </a>
+</div>,
+              <div>
+                <a
+                                id="card"
+                                onClick={[Function]}
+                >
+                                <img
+                                                alt=""
+                                                className="image"
+                                                src="https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg"
+                                />
+                                <div
+                                                className="title-card"
+                                >
+                                                <b>
+                                                                Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
+                                                </b>
+                                </div>
+                                <div>
+                                                <span
+                                                                className="date"
+                                                >
+                                                                2016-06-26T13:50:56.000Z
+                                                </span>
+                                </div>
+                                <div
+                                                className="card-description"
+                                >
+                                                <p>
+                                                                <b>
+                                                                                Description:
+                                                                </b>
+                                                                CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
+                                                </p>
+                                </div>
+                </a>
+</div>,
+              <div>
+                <a
+                                id="card"
+                                onClick={[Function]}
+                >
+                                <img
+                                                alt=""
+                                                className="image"
+                                                src="https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg"
+                                />
+                                <div
+                                                className="title-card"
+                                >
+                                                <b>
+                                                                Hilarious Cat Fails (April 2017)
+                                                </b>
+                                </div>
+                                <div>
+                                                <span
+                                                                className="date"
+                                                >
+                                                                2017-05-02T12:00:00.000Z
+                                                </span>
+                                </div>
+                                <div
+                                                className="card-description"
+                                >
+                                                <p>
+                                                                <b>
+                                                                                Description:
+                                                                </b>
+                                                                Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
+                                                </p>
+                                </div>
+                </a>
+</div>,
+            ],
+            "className": "cards",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": "0",
+              "nodeType": "host",
+              "props": Object {
+                "children": <a
+                  id="card"
+                  onClick={[Function]}
+>
+                  <img
+                                    alt=""
+                                    className="image"
+                                    src="https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg"
+                  />
+                  <div
+                                    className="title-card"
+                  >
+                                    <b>
+                                                      CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
+                                    </b>
+                  </div>
+                  <div>
+                                    <span
+                                                      className="date"
+                                    >
+                                                      2017-05-31T09:30:02.000Z
+                                    </span>
+                  </div>
+                  <div
+                                    className="card-description"
+                  >
+                                    <p>
+                                                      <b>
+                                                                        Description:
+                                                      </b>
+                                                      HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
+                                    </p>
+                  </div>
+</a>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": null,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <img
+                      alt=""
+                      className="image"
+                      src="https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg"
+/>,
+                    <div
+                      className="title-card"
+>
+                      <b>
+                                            CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
+                      </b>
+</div>,
+                    <div>
+                      <span
+                                            className="date"
+                      >
+                                            2017-05-31T09:30:02.000Z
+                      </span>
+</div>,
+                    <div
+                      className="card-description"
+>
+                      <p>
+                                            <b>
+                                                                  Description:
+                                            </b>
+                                            HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
+                      </p>
+</div>,
+                  ],
+                  "id": "card",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "alt": "",
+                      "className": "image",
+                      "src": "https://i.ytimg.com/vi/hY7m5jjJ9mM/mqdefault.jpg",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "img",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <b>
+                        CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
+</b>,
+                      "className": "title-card",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation",
+                      },
+                      "ref": null,
+                      "rendered": "CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation",
+                      "type": "b",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <span
+                        className="date"
+>
+                        2017-05-31T09:30:02.000Z
+</span>,
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "2017-05-31T09:30:02.000Z",
+                        "className": "date",
+                      },
+                      "ref": null,
+                      "rendered": "2017-05-31T09:30:02.000Z",
+                      "type": "span",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <p>
+                        <b>
+                                                Description:
+                        </b>
+                        HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
+</p>,
+                      "className": "card-description",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <b>
+                            Description:
+</b>,
+                          "HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...",
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": null,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Description:",
+                          },
+                          "ref": null,
+                          "rendered": "Description:",
+                          "type": "b",
+                        },
+                        "HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...",
+                      ],
+                      "type": "p",
+                    },
+                    "type": "div",
+                  },
+                ],
+                "type": "a",
+              },
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": "1",
+              "nodeType": "host",
+              "props": Object {
+                "children": <a
+                  id="card"
+                  onClick={[Function]}
+>
+                  <img
+                                    alt=""
+                                    className="image"
+                                    src="https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg"
+                  />
+                  <div
+                                    className="title-card"
+                  >
+                                    <b>
+                                                      Cats are so funny you will die laughing - Funny cat compilation
+                                    </b>
+                  </div>
+                  <div>
+                                    <span
+                                                      className="date"
+                                    >
+                                                      2016-12-24T10:30:00.000Z
+                                    </span>
+                  </div>
+                  <div
+                                    className="card-description"
+                  >
+                                    <p>
+                                                      <b>
+                                                                        Description:
+                                                      </b>
+                                                      Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
+                                    </p>
+                  </div>
+</a>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": null,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <img
+                      alt=""
+                      className="image"
+                      src="https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg"
+/>,
+                    <div
+                      className="title-card"
+>
+                      <b>
+                                            Cats are so funny you will die laughing - Funny cat compilation
+                      </b>
+</div>,
+                    <div>
+                      <span
+                                            className="date"
+                      >
+                                            2016-12-24T10:30:00.000Z
+                      </span>
+</div>,
+                    <div
+                      className="card-description"
+>
+                      <p>
+                                            <b>
+                                                                  Description:
+                                            </b>
+                                            Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
+                      </p>
+</div>,
+                  ],
+                  "id": "card",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "alt": "",
+                      "className": "image",
+                      "src": "https://i.ytimg.com/vi/5dsGWM5XGdg/mqdefault.jpg",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "img",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <b>
+                        Cats are so funny you will die laughing - Funny cat compilation
+</b>,
+                      "className": "title-card",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Cats are so funny you will die laughing - Funny cat compilation",
+                      },
+                      "ref": null,
+                      "rendered": "Cats are so funny you will die laughing - Funny cat compilation",
+                      "type": "b",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <span
+                        className="date"
+>
+                        2016-12-24T10:30:00.000Z
+</span>,
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "2016-12-24T10:30:00.000Z",
+                        "className": "date",
+                      },
+                      "ref": null,
+                      "rendered": "2016-12-24T10:30:00.000Z",
+                      "type": "span",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <p>
+                        <b>
+                                                Description:
+                        </b>
+                        Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
+</p>,
+                      "className": "card-description",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <b>
+                            Description:
+</b>,
+                          "Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...",
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": null,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Description:",
+                          },
+                          "ref": null,
+                          "rendered": "Description:",
+                          "type": "b",
+                        },
+                        "Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...",
+                      ],
+                      "type": "p",
+                    },
+                    "type": "div",
+                  },
+                ],
+                "type": "a",
+              },
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": "2",
+              "nodeType": "host",
+              "props": Object {
+                "children": <a
+                  id="card"
+                  onClick={[Function]}
+>
+                  <img
+                                    alt=""
+                                    className="image"
+                                    src="https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg"
+                  />
+                  <div
+                                    className="title-card"
+                  >
+                                    <b>
+                                                      Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
+                                    </b>
+                  </div>
+                  <div>
+                                    <span
+                                                      className="date"
+                                    >
+                                                      2013-12-31T05:21:57.000Z
+                                    </span>
+                  </div>
+                  <div
+                                    className="card-description"
+                  >
+                                    <p>
+                                                      <b>
+                                                                        Description:
+                                                      </b>
+                                                      Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
+                                    </p>
+                  </div>
+</a>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": null,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <img
+                      alt=""
+                      className="image"
+                      src="https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg"
+/>,
+                    <div
+                      className="title-card"
+>
+                      <b>
+                                            Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
+                      </b>
+</div>,
+                    <div>
+                      <span
+                                            className="date"
+                      >
+                                            2013-12-31T05:21:57.000Z
+                      </span>
+</div>,
+                    <div
+                      className="card-description"
+>
+                      <p>
+                                            <b>
+                                                                  Description:
+                                            </b>
+                                            Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
+                      </p>
+</div>,
+                  ],
+                  "id": "card",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "alt": "",
+                      "className": "image",
+                      "src": "https://i.ytimg.com/vi/tntOCGkgt98/mqdefault.jpg",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "img",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <b>
+                        Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
+</b>,
+                      "className": "title-card",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1",
+                      },
+                      "ref": null,
+                      "rendered": "Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1",
+                      "type": "b",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <span
+                        className="date"
+>
+                        2013-12-31T05:21:57.000Z
+</span>,
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "2013-12-31T05:21:57.000Z",
+                        "className": "date",
+                      },
+                      "ref": null,
+                      "rendered": "2013-12-31T05:21:57.000Z",
+                      "type": "span",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <p>
+                        <b>
+                                                Description:
+                        </b>
+                        Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
+</p>,
+                      "className": "card-description",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <b>
+                            Description:
+</b>,
+                          "Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...",
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": null,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Description:",
+                          },
+                          "ref": null,
+                          "rendered": "Description:",
+                          "type": "b",
+                        },
+                        "Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...",
+                      ],
+                      "type": "p",
+                    },
+                    "type": "div",
+                  },
+                ],
+                "type": "a",
+              },
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": "3",
+              "nodeType": "host",
+              "props": Object {
+                "children": <a
+                  id="card"
+                  onClick={[Function]}
+>
+                  <img
+                                    alt=""
+                                    className="image"
+                                    src="https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg"
+                  />
+                  <div
+                                    className="title-card"
+                  >
+                                    <b>
+                                                      Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
+                                    </b>
+                  </div>
+                  <div>
+                                    <span
+                                                      className="date"
+                                    >
+                                                      2016-06-26T13:50:56.000Z
+                                    </span>
+                  </div>
+                  <div
+                                    className="card-description"
+                  >
+                                    <p>
+                                                      <b>
+                                                                        Description:
+                                                      </b>
+                                                      CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
+                                    </p>
+                  </div>
+</a>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": null,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <img
+                      alt=""
+                      className="image"
+                      src="https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg"
+/>,
+                    <div
+                      className="title-card"
+>
+                      <b>
+                                            Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
+                      </b>
+</div>,
+                    <div>
+                      <span
+                                            className="date"
+                      >
+                                            2016-06-26T13:50:56.000Z
+                      </span>
+</div>,
+                    <div
+                      className="card-description"
+>
+                      <p>
+                                            <b>
+                                                                  Description:
+                                            </b>
+                                            CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
+                      </p>
+</div>,
+                  ],
+                  "id": "card",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "alt": "",
+                      "className": "image",
+                      "src": "https://i.ytimg.com/vi/njSyHmcEdkw/mqdefault.jpg",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "img",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <b>
+                        Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
+</b>,
+                      "className": "title-card",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines",
+                      },
+                      "ref": null,
+                      "rendered": "Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines",
+                      "type": "b",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <span
+                        className="date"
+>
+                        2016-06-26T13:50:56.000Z
+</span>,
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "2016-06-26T13:50:56.000Z",
+                        "className": "date",
+                      },
+                      "ref": null,
+                      "rendered": "2016-06-26T13:50:56.000Z",
+                      "type": "span",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <p>
+                        <b>
+                                                Description:
+                        </b>
+                        CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
+</p>,
+                      "className": "card-description",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <b>
+                            Description:
+</b>,
+                          "CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...",
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": null,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Description:",
+                          },
+                          "ref": null,
+                          "rendered": "Description:",
+                          "type": "b",
+                        },
+                        "CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...",
+                      ],
+                      "type": "p",
+                    },
+                    "type": "div",
+                  },
+                ],
+                "type": "a",
+              },
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": "4",
+              "nodeType": "host",
+              "props": Object {
+                "children": <a
+                  id="card"
+                  onClick={[Function]}
+>
+                  <img
+                                    alt=""
+                                    className="image"
+                                    src="https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg"
+                  />
+                  <div
+                                    className="title-card"
+                  >
+                                    <b>
+                                                      Hilarious Cat Fails (April 2017)
+                                    </b>
+                  </div>
+                  <div>
+                                    <span
+                                                      className="date"
+                                    >
+                                                      2017-05-02T12:00:00.000Z
+                                    </span>
+                  </div>
+                  <div
+                                    className="card-description"
+                  >
+                                    <p>
+                                                      <b>
+                                                                        Description:
+                                                      </b>
+                                                      Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
+                                    </p>
+                  </div>
+</a>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": null,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <img
+                      alt=""
+                      className="image"
+                      src="https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg"
+/>,
+                    <div
+                      className="title-card"
+>
+                      <b>
+                                            Hilarious Cat Fails (April 2017)
+                      </b>
+</div>,
+                    <div>
+                      <span
+                                            className="date"
+                      >
+                                            2017-05-02T12:00:00.000Z
+                      </span>
+</div>,
+                    <div
+                      className="card-description"
+>
+                      <p>
+                                            <b>
+                                                                  Description:
+                                            </b>
+                                            Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
+                      </p>
+</div>,
+                  ],
+                  "id": "card",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "alt": "",
+                      "className": "image",
+                      "src": "https://i.ytimg.com/vi/1Wh8RzcQZr4/mqdefault.jpg",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "img",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <b>
+                        Hilarious Cat Fails (April 2017)
+</b>,
+                      "className": "title-card",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Hilarious Cat Fails (April 2017)",
+                      },
+                      "ref": null,
+                      "rendered": "Hilarious Cat Fails (April 2017)",
+                      "type": "b",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <span
+                        className="date"
+>
+                        2017-05-02T12:00:00.000Z
+</span>,
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "2017-05-02T12:00:00.000Z",
+                        "className": "date",
+                      },
+                      "ref": null,
+                      "rendered": "2017-05-02T12:00:00.000Z",
+                      "type": "span",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": null,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <p>
+                        <b>
+                                                Description:
+                        </b>
+                        Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
+</p>,
+                      "className": "card-description",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": null,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <b>
+                            Description:
+</b>,
+                          "Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...",
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": null,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Description:",
+                          },
+                          "ref": null,
+                          "rendered": "Description:",
+                          "type": "b",
+                        },
+                        "Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...",
+                      ],
+                      "type": "p",
+                    },
+                    "type": "div",
+                  },
+                ],
+                "type": "a",
+              },
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
+
+exports[`DateList Component should render without any data defined 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <ImageCard
+    history={
+        Object {
+            "push": [Function],
+          }
+    }
+    selectedVideo={[Function]}
+    videoList={Array []}
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": null,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <p
+          className="direction-search"
+>
+          Please enter the video you want to search !
+</p>,
+        <img
+          alt=""
+          className="youtube-icon"
+          src="Youtube-icon.png"
+/>,
+        ";",
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": null,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Please enter the video you want to search !",
+          "className": "direction-search",
+        },
+        "ref": null,
+        "rendered": "Please enter the video you want to search !",
+        "type": "p",
+      },
+      Object {
+        "instance": null,
+        "key": null,
+        "nodeType": "host",
+        "props": Object {
+          "alt": "",
+          "className": "youtube-icon",
+          "src": "Youtube-icon.png",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": "img",
+      },
+      ";",
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": null,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <p
+            className="direction-search"
+>
+            Please enter the video you want to search !
+</p>,
+          <img
+            alt=""
+            className="youtube-icon"
+            src="Youtube-icon.png"
+/>,
+          ";",
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": null,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Please enter the video you want to search !",
+            "className": "direction-search",
+          },
+          "ref": null,
+          "rendered": "Please enter the video you want to search !",
+          "type": "p",
+        },
+        Object {
+          "instance": null,
+          "key": null,
+          "nodeType": "host",
+          "props": Object {
+            "alt": "",
+            "className": "youtube-icon",
+            "src": "Youtube-icon.png",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": "img",
+        },
+        ";",
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
