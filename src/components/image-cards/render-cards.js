@@ -1,9 +1,9 @@
 import React from 'react';
 
-const RenderCards = (videoList, selectedVideo,history) => {
+const RenderCards = ({videoList, selectedVideo, history}) => {
   return (videoList.map((video,index) => <div key={index}>
-    <a id='card' onClick={() => { selectedVideo(video);
-                                  history.push('/video') }}>
+    <a id='card' className={`card${index}`} onClick={() => {    selectedVideo(video);
+    history.push('/video') }}>
       <img alt='' className="image" src={video.snippet.thumbnails.medium.url}/>
       <div className='title-card'>
         <b>{video.snippet.title}</b>
