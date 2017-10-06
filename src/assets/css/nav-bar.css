@@ -1,4 +1,4 @@
-#NavBar {
+#navbar {
   min-height: 50px;
   background-color: #34373C;
   height: fit-content;
@@ -8,12 +8,20 @@
   width: 100%;
 }
 
-#Title {
+#title {
   margin-left: 2.5%;
   float: left;
 }
 
-.MenuItem {
+.home {
+  display: inline-block;
+  margin: 0px auto 0px auto;
+}
+.home:hover{
+  cursor: pointer;
+}
+
+.menu-item {
   vertical-align: middle;
   line-height: 50px;
   width: 100%;
@@ -25,19 +33,7 @@
   padding-right: 10px;
 }
 
-.NavLinks {
+.nav-links {
   float: right;
   margin-right: 5%;
-}
-
-.MenuItem {
-  vertical-align: middle;
-  line-height: 50px;
-  width: 100%;
-  font-family: 'Oswald', sans-serif;
-  font-size: 16px;
-  display: inline;
-  color: #fffcfc;
-  font-weight: 700;
-  padding-right: 10px;
 }

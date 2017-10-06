@@ -1,15 +1,23 @@
 import React from 'react';
+import {withRouter} from 'react-router-dom';
 
-const NavBar = () => (
-  <div id="NavBar">
-    <div id="Title">
-      <div className="MenuItem">
+const NavBar = ({history}) => (
+  <div id="navbar">
+    <div id="title">
+      <div className="menu-item">
         Kevin&apos;s Youtube-Project
       </div>
     </div>
-    <div className="NavLinks">
+    <div className="home">
+      <a onClick={() => {
+        history.push('/')
+      }}>
+        <div className="menu-item">Home Page</div>
+      </a>
+    </div>
+    <div className="nav-links">
       <a href="https://github.com/kvinzheng/youtube-project">
-        <div className="MenuItem">
+        <div className="menu-item">
           GitHub Code
         </div>
       </a>
@@ -17,4 +25,4 @@ const NavBar = () => (
   </div>
 );
 
-export default NavBar;
+export default withRouter(NavBar);
