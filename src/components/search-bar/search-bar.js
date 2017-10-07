@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const SearchBar = ({loadAllData, setSearchTerm, searchTerm}) => {
   return (
     <div id="search-bar">
-      <form onSubmit={(event) => {
+      <form className='search-form' onSubmit={(event) => {
         event.preventDefault();
         loadAllData(searchTerm);
       }}>

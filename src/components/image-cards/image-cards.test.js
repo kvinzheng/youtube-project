@@ -5,7 +5,7 @@ import ImageCards from './image-cards';
 import RenderCards from './render-cards';
 import {mapStateToProps} from './image-cards-container';
 import {mapDispatchToProps} from './image-cards-container';
-import {sampleData, emptySampleData} from '../../helpers/sample-data-test';
+import {sampleData} from '../../helpers/sample-data-test';
 
 configure({adapter: new Adapter()});
 
@@ -33,6 +33,7 @@ describe('DateList Component', () => {
     expect(history.push).toHaveBeenCalled();
     expect(history.push.mock.calls[0][0]).toBe('/video');
   });
+
   it('should render with props passed in', () => {
     const component = shallow(<ImageCards videoList={sampleData.youtubeData.myData.items} selectedVideo={selectedVideo} history={history}/>);
     expect(component).toMatchSnapshot();
