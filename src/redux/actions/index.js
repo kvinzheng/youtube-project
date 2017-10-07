@@ -18,4 +18,4 @@ export const loadAllData = term => {
       dispatch({type: 'LOAD_ALL_DATA_REJECTED'});
     });
   };
-};
+a};
