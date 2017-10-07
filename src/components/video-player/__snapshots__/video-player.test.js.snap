@@ -1,0 +1,439 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar Component should render with props passed in 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <VideoPlayer
+    channelTitle="pet shop"
+    description="cat is very cool"
+    id="2"
+    status="FULFILLED"
+    title="cat is cool"
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": null,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <div
+          className="video-player"
+>
+          <div>
+                    <iframe
+                              className="player"
+                              src="https://www.youtube.com/embed/2"
+                              title="cat is cool"
+                    />
+          </div>
+          <div
+                    className="videoDescription"
+          >
+                    <h3
+                              className="videoTitle"
+                    >
+                              cat is cool
+                    </h3>
+                    <h5>
+                              Channel: pet shop
+                    </h5>
+                    <p>
+                              cat is very cool
+                    </p>
+          </div>
+</div>,
+        <button
+          className="back-to-home"
+          onClick={[Function]}
+>
+          Back To Youtube Search Home Page
+</button>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": null,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <div>
+              <iframe
+                            className="player"
+                            src="https://www.youtube.com/embed/2"
+                            title="cat is cool"
+              />
+</div>,
+            <div
+              className="videoDescription"
+>
+              <h3
+                            className="videoTitle"
+              >
+                            cat is cool
+              </h3>
+              <h5>
+                            Channel: pet shop
+              </h5>
+              <p>
+                            cat is very cool
+              </p>
+</div>,
+          ],
+          "className": "video-player",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": null,
+            "nodeType": "host",
+            "props": Object {
+              "children": <iframe
+                className="player"
+                src="https://www.youtube.com/embed/2"
+                title="cat is cool"
+/>,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": null,
+              "nodeType": "host",
+              "props": Object {
+                "className": "player",
+                "src": "https://www.youtube.com/embed/2",
+                "title": "cat is cool",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "iframe",
+            },
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": null,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <h3
+                  className="videoTitle"
+>
+                  cat is cool
+</h3>,
+                <h5>
+                  Channel: pet shop
+</h5>,
+                <p>
+                  cat is very cool
+</p>,
+              ],
+              "className": "videoDescription",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": null,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "cat is cool",
+                  "className": "videoTitle",
+                },
+                "ref": null,
+                "rendered": "cat is cool",
+                "type": "h3",
+              },
+              Object {
+                "instance": null,
+                "key": null,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Channel: pet shop",
+                },
+                "ref": null,
+                "rendered": "Channel: pet shop",
+                "type": "h5",
+              },
+              Object {
+                "instance": null,
+                "key": null,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "cat is very cool",
+                },
+                "ref": null,
+                "rendered": "cat is very cool",
+                "type": "p",
+              },
+            ],
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": null,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Back To Youtube Search Home Page",
+          "className": "back-to-home",
+          "onClick": [Function],
+        },
+        "ref": null,
+        "rendered": "Back To Youtube Search Home Page",
+        "type": "button",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": null,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <div
+            className="video-player"
+>
+            <div>
+                        <iframe
+                                    className="player"
+                                    src="https://www.youtube.com/embed/2"
+                                    title="cat is cool"
+                        />
+            </div>
+            <div
+                        className="videoDescription"
+            >
+                        <h3
+                                    className="videoTitle"
+                        >
+                                    cat is cool
+                        </h3>
+                        <h5>
+                                    Channel: pet shop
+                        </h5>
+                        <p>
+                                    cat is very cool
+                        </p>
+            </div>
+</div>,
+          <button
+            className="back-to-home"
+            onClick={[Function]}
+>
+            Back To Youtube Search Home Page
+</button>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": null,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <div>
+                <iframe
+                                className="player"
+                                src="https://www.youtube.com/embed/2"
+                                title="cat is cool"
+                />
+</div>,
+              <div
+                className="videoDescription"
+>
+                <h3
+                                className="videoTitle"
+                >
+                                cat is cool
+                </h3>
+                <h5>
+                                Channel: pet shop
+                </h5>
+                <p>
+                                cat is very cool
+                </p>
+</div>,
+            ],
+            "className": "video-player",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": null,
+              "nodeType": "host",
+              "props": Object {
+                "children": <iframe
+                  className="player"
+                  src="https://www.youtube.com/embed/2"
+                  title="cat is cool"
+/>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": null,
+                "nodeType": "host",
+                "props": Object {
+                  "className": "player",
+                  "src": "https://www.youtube.com/embed/2",
+                  "title": "cat is cool",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "iframe",
+              },
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": null,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <h3
+                    className="videoTitle"
+>
+                    cat is cool
+</h3>,
+                  <h5>
+                    Channel: pet shop
+</h5>,
+                  <p>
+                    cat is very cool
+</p>,
+                ],
+                "className": "videoDescription",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "cat is cool",
+                    "className": "videoTitle",
+                  },
+                  "ref": null,
+                  "rendered": "cat is cool",
+                  "type": "h3",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Channel: pet shop",
+                  },
+                  "ref": null,
+                  "rendered": "Channel: pet shop",
+                  "type": "h5",
+                },
+                Object {
+                  "instance": null,
+                  "key": null,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "cat is very cool",
+                  },
+                  "ref": null,
+                  "rendered": "cat is very cool",
+                  "type": "p",
+                },
+              ],
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": null,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Back To Youtube Search Home Page",
+            "className": "back-to-home",
+            "onClick": [Function],
+          },
+          "ref": null,
+          "rendered": "Back To Youtube Search Home Page",
+          "type": "button",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
+
+exports[`SearchBar Component should render without any data defined 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <VideoPlayer
+    channelTitle=""
+    description=""
+    id=""
+    status=""
+    title=""
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": null,
+    "nodeType": "host",
+    "props": Object {},
+    "ref": null,
+    "rendered": null,
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": null,
+      "nodeType": "host",
+      "props": Object {},
+      "ref": null,
+      "rendered": null,
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;

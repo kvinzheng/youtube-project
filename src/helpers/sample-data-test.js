@@ -1,4 +1,4 @@
-const video = {
+export const video = {
   "kind": "youtube#searchResult",
   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Cdphs-sy_uELwbqUW-uWHjQcnqo\"",
   "id": {
@@ -32,7 +32,7 @@ const video = {
   }
 };
 
-const videos = {
+export const videos = {
   "kind": "youtube#searchListResponse",
   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qdDGutV8AE1VGqwVGO3M3L31giU\"",
   "nextPageToken": "CAUQAA",
@@ -212,7 +212,7 @@ export const sampleData = {
   },
   selectedVideo: {
     video: video,
-    state: 'FULFILLED'
+    status: 'FULFILLED'
   },
   youtubeData: {
     myData: videos,
@@ -221,16 +221,14 @@ export const sampleData = {
 }
 export const emptySampleData = {
   search: {
-    picture: 'dog'
+    picture: null,
   },
   selectedVideo: {
-    video: {},
-    state: 'PENDING'
+    video: null,
+    status: null,
   },
   youtubeData: {
-    myData: {
-      items: []
-    },
-    status: 'PENDING'
+    myData: null,
+    status: null,
   }
 }

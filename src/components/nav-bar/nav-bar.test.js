@@ -8,6 +8,7 @@ configure({ adapter: new Adapter() });
 const history = {
   push: jest.fn(),
 }
+
 describe('NavBar', ()=>{
   it('should render without any data defined',() => {
     const component = shallow(<NavBar history={history}/>);
