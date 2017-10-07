@@ -13,16 +13,16 @@ const loadAllData = jest.fn();
 
 describe('SearchBar Component', () => {
   it('should render without any data defined', () => {
-    const component = shallow(<SearchBar loadAllData={loadAllData} setSearchTerm={setSearchTerm} searchTerm={''} />);
+    const component = shallow(<SearchBar loadAllData={loadAllData} setSearchTerm={setSearchTerm} searchTerm={''}/>);
     expect(component).toMatchSnapshot();
   });
 
   it('should render with props passed in', () => {
-      const component = shallow(<SearchBar loadAllData={loadAllData} setSearchTerm={setSearchTerm} searchTerm={'cat'} />);
+    const component = shallow(<SearchBar loadAllData={loadAllData} setSearchTerm={setSearchTerm} searchTerm={'cat'}/>);
     expect(component).toMatchSnapshot();
   });
   it('Renders with correct classes', () => {
-      const component = shallow(<SearchBar loadAllData={loadAllData} setSearchTerm={setSearchTerm} searchTerm={'cat'} />);
+    const component = shallow(<SearchBar loadAllData={loadAllData} setSearchTerm={setSearchTerm} searchTerm={'cat'}/>);
     expect(component.find('#search-bar').length).toBe(1);
     expect(component.find('.search-button').length).toBe(1);
   });
@@ -61,9 +61,20 @@ describe('SearchBar Component', () => {
   });
 
   it('When submit on the form', () => {
-    const component = mount(<SearchBar loadAllData={loadAllData} setSearchTerm={setSearchTerm} searchTerm={'cat'} />);
+    const component = mount(<SearchBar loadAllData={loadAllData} setSearchTerm={setSearchTerm} searchTerm={'cat'}/>);
     component.find('.search-form').simulate('submit', {
+      preventDefault: () => {}
+    });
+    expect(loadAllData).toHaveBeenCalled();
+  });
+
+  it('When type on the input', () => {
+    const component = mount(<SearchBar loadAllData={loadAllData} setSearchTerm={setSearchTerm} searchTerm={'cat'}/>);
+    component.find('#input-bar').simulate('change', {
       preventDefault: () => {},
+      target: {
+        value: 'cat'
+      }
     });
     expect(loadAllData).toHaveBeenCalled();
   });
