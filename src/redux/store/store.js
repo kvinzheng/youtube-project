@@ -3,6 +3,7 @@ import { createStore, applyMiddleware } from 'redux';
 import * as Api from '../utils/Api';
 import rootReducer from '../reducers';
 
+// store creation
 const store = createStore(
   rootReducer,
   window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__(),
