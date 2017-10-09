@@ -1,6 +1,6 @@
 import thunkMiddleware from 'redux-thunk';
 import { createStore, applyMiddleware } from 'redux';
-import * as Api from '../utils/Api';
+import * as Api from '../utils/api';
 import rootReducer from '../reducers';
 
 // store creation
