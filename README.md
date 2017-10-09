@@ -34,13 +34,12 @@ Test Coverage Details:
 - Test coverage for actions is **100%**
 - Test coverage for utils/api is **100%**
 
-NOTE: I ignore src/index.js when running the coverage. I don't need to test React Dom Render or the store since they were tested by the creators.
+NOTE: To view the tests, cd into the root directory run the following command
 
 1. run ```npm test``` to run all the tests without the test coverage interface
-2. run ```npm test -- --coverage --coveragePathIgnorePatterns src/index.js src/redux/store``` to run all the tests with test coverage interface( we don't need to test React Dom Render and the store since they were tested by the creators);
-3. run ```open coverage/lcov-report/index.html ``` to open coverage files detail without the React Dom Render file
-4. run ```npm test -- --coverage``` to run all the files with the test coverage interface
-5. run ```open coverage/lcov-report/index.html ``` to open coverage files detail with all files
+2. run ```npm test -- --coverage``` to run all the files with the test coverage interface
+3. run ```open coverage/lcov-report/index.html ``` to view a report of the coverage files
+4. run ```npm test -- --coverage --coveragePathIgnorePatterns src/index.js``` to run all the tests without the index.js. we don't need to test React Dom Render and the store since they were tested by the creators);
 
 <img src="./src/assets/testing-coverage.png" width="600" />
 
