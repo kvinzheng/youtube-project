@@ -57,9 +57,11 @@ You can see that the actions take in an api Object(src/utils/api.js directory). 
 
 
 ```Javascript
-const store = createStore(reducer,
+const store = createStore(
+  rootReducer,
   window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__(),
-  applyMiddleware(thunkMiddleware.withExtraArgument({ Api }), promiseMiddleware()),
+  applyMiddleware(thunkMiddleware.withExtraArgument({ Api }),
+  ),
 );
 ```
 
