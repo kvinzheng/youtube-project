@@ -53,7 +53,8 @@ Other pieces of technologies include:
 I used redux-thunk-middleware to ensure the flow of actions.
 
 ## Redux Store
-You can see that the actions take in an api Object(src/utils/api.js directory). In this case, I utilized the extraArgument parameter inside the Thunk-Middleware and set my Api object as the extraArgument. This let me text actions, apis, and thunks separately. This methodology allows to maintain the idea of separation of concerns.
+You can see that the actions take in an api Object(src/utils/api.js directory). The app is fully tested and functional. I utilized the extraArgument parameter inside the Thunk-Middleware and set the util/api.js object(api network requests) as the extraArgument. This structure let me test actions, Apis, thunks, and components separately. This methodology allows me to maintain the idea of separation of concerns.
+
 
 ```Javascript
 const store = createStore(reducer,
@@ -66,7 +67,7 @@ This is my api object. Notice that my api's role only make network request. api 
 
 <img src="./src/assets/api-object.png" width="600" />
 
-This is what my thunk with extra argument looks like. I use my thunk to create three stages: PENDING, FULFULL, and REJECT
+This is what my thunk with extra argument looks like. I use my thunk to create three stages: PENDING, FULFULLED, and REJECTED
 
 <img src="./src/assets/thunk.png" width="600" />
 
