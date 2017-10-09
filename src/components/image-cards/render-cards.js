@@ -14,12 +14,12 @@ const RenderCards = ({ videoList, selectedVideo, history }) => {
       <div className="title-card">
         <b>{video.snippet.title}</b>
       </div>
-      <div>
+      <div className="date-title">
         <span className="date">{video.snippet.publishedAt}</span>
       </div>
       <div className="card-description">
         <p>
-          <b>Description:
+          <b className="description-title">Description:
           </b>{video.snippet.description}
         </p>
       </div>

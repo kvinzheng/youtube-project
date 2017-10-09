@@ -35,16 +35,16 @@ ShallowWrapper {
                     />
           </div>
           <div
-                    className="videoDescription"
+                    className="video-description"
           >
                     <h3
-                              className="videoTitle"
+                              className="video-title"
                     >
                               cat is cool
                     </h3>
-                    <h5>
+                    <h4>
                               Channel: pet shop
-                    </h5>
+                    </h4>
                     <p>
                               cat is very cool
                     </p>
@@ -74,16 +74,16 @@ ShallowWrapper {
               />
 </div>,
             <div
-              className="videoDescription"
+              className="video-description"
 >
               <h3
-                            className="videoTitle"
+                            className="video-title"
               >
                             cat is cool
               </h3>
-              <h5>
+              <h4>
                             Channel: pet shop
-              </h5>
+              </h4>
               <p>
                             cat is very cool
               </p>
@@ -127,18 +127,18 @@ ShallowWrapper {
             "props": Object {
               "children": Array [
                 <h3
-                  className="videoTitle"
+                  className="video-title"
 >
                   cat is cool
 </h3>,
-                <h5>
+                <h4>
                   Channel: pet shop
-</h5>,
+</h4>,
                 <p>
                   cat is very cool
 </p>,
               ],
-              "className": "videoDescription",
+              "className": "video-description",
             },
             "ref": null,
             "rendered": Array [
@@ -148,7 +148,7 @@ ShallowWrapper {
                 "nodeType": "host",
                 "props": Object {
                   "children": "cat is cool",
-                  "className": "videoTitle",
+                  "className": "video-title",
                 },
                 "ref": null,
                 "rendered": "cat is cool",
@@ -163,7 +163,7 @@ ShallowWrapper {
                 },
                 "ref": null,
                 "rendered": "Channel: pet shop",
-                "type": "h5",
+                "type": "h4",
               },
               Object {
                 "instance": null,
@@ -216,16 +216,16 @@ ShallowWrapper {
                         />
             </div>
             <div
-                        className="videoDescription"
+                        className="video-description"
             >
                         <h3
-                                    className="videoTitle"
+                                    className="video-title"
                         >
                                     cat is cool
                         </h3>
-                        <h5>
+                        <h4>
                                     Channel: pet shop
-                        </h5>
+                        </h4>
                         <p>
                                     cat is very cool
                         </p>
@@ -255,16 +255,16 @@ ShallowWrapper {
                 />
 </div>,
               <div
-                className="videoDescription"
+                className="video-description"
 >
                 <h3
-                                className="videoTitle"
+                                className="video-title"
                 >
                                 cat is cool
                 </h3>
-                <h5>
+                <h4>
                                 Channel: pet shop
-                </h5>
+                </h4>
                 <p>
                                 cat is very cool
                 </p>
@@ -308,18 +308,18 @@ ShallowWrapper {
               "props": Object {
                 "children": Array [
                   <h3
-                    className="videoTitle"
+                    className="video-title"
 >
                     cat is cool
 </h3>,
-                  <h5>
+                  <h4>
                     Channel: pet shop
-</h5>,
+</h4>,
                   <p>
                     cat is very cool
 </p>,
                 ],
-                "className": "videoDescription",
+                "className": "video-description",
               },
               "ref": null,
               "rendered": Array [
@@ -329,7 +329,7 @@ ShallowWrapper {
                   "nodeType": "host",
                   "props": Object {
                     "children": "cat is cool",
-                    "className": "videoTitle",
+                    "className": "video-title",
                   },
                   "ref": null,
                   "rendered": "cat is cool",
@@ -344,7 +344,7 @@ ShallowWrapper {
                   },
                   "ref": null,
                   "rendered": "Channel: pet shop",
-                  "type": "h5",
+                  "type": "h4",
                 },
                 Object {
                   "instance": null,
@@ -415,7 +415,7 @@ ShallowWrapper {
     "props": Object {
       "children": Array [
         <div
-          className="video-player"
+          className="back-to-home-container"
 >
            Please go back to home page and select a video
 </div>,
@@ -435,7 +435,7 @@ ShallowWrapper {
         "nodeType": "host",
         "props": Object {
           "children": " Please go back to home page and select a video",
-          "className": "video-player",
+          "className": "back-to-home-container",
         },
         "ref": null,
         "rendered": " Please go back to home page and select a video",
@@ -465,7 +465,7 @@ ShallowWrapper {
       "props": Object {
         "children": Array [
           <div
-            className="video-player"
+            className="back-to-home-container"
 >
              Please go back to home page and select a video
 </div>,
@@ -485,7 +485,7 @@ ShallowWrapper {
           "nodeType": "host",
           "props": Object {
             "children": " Please go back to home page and select a video",
-            "className": "video-player",
+            "className": "back-to-home-container",
           },
           "ref": null,
           "rendered": " Please go back to home page and select a video",

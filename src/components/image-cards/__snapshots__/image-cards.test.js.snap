@@ -207,7 +207,9 @@ ShallowWrapper {
                         CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
                   </b>
             </div>
-            <div>
+            <div
+                  className="date-title"
+            >
                   <span
                         className="date"
                   >
@@ -218,7 +220,9 @@ ShallowWrapper {
                   className="card-description"
             >
                   <p>
-                        <b>
+                        <b
+                              className="description-title"
+                        >
                               Description:
                         </b>
                         HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -244,7 +248,9 @@ ShallowWrapper {
                         Cats are so funny you will die laughing - Funny cat compilation
                   </b>
             </div>
-            <div>
+            <div
+                  className="date-title"
+            >
                   <span
                         className="date"
                   >
@@ -255,7 +261,9 @@ ShallowWrapper {
                   className="card-description"
             >
                   <p>
-                        <b>
+                        <b
+                              className="description-title"
+                        >
                               Description:
                         </b>
                         Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -281,7 +289,9 @@ ShallowWrapper {
                         Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
                   </b>
             </div>
-            <div>
+            <div
+                  className="date-title"
+            >
                   <span
                         className="date"
                   >
@@ -292,7 +302,9 @@ ShallowWrapper {
                   className="card-description"
             >
                   <p>
-                        <b>
+                        <b
+                              className="description-title"
+                        >
                               Description:
                         </b>
                         Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -318,7 +330,9 @@ ShallowWrapper {
                         Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
                   </b>
             </div>
-            <div>
+            <div
+                  className="date-title"
+            >
                   <span
                         className="date"
                   >
@@ -329,7 +343,9 @@ ShallowWrapper {
                   className="card-description"
             >
                   <p>
-                        <b>
+                        <b
+                              className="description-title"
+                        >
                               Description:
                         </b>
                         CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -355,7 +371,9 @@ ShallowWrapper {
                         Hilarious Cat Fails (April 2017)
                   </b>
             </div>
-            <div>
+            <div
+                  className="date-title"
+            >
                   <span
                         className="date"
                   >
@@ -366,7 +384,9 @@ ShallowWrapper {
                   className="card-description"
             >
                   <p>
-                        <b>
+                        <b
+                              className="description-title"
+                        >
                               Description:
                         </b>
                         Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -395,7 +415,9 @@ ShallowWrapper {
                                 CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
                         </b>
                 </div>
-                <div>
+                <div
+                        className="date-title"
+                >
                         <span
                                 className="date"
                         >
@@ -406,7 +428,9 @@ ShallowWrapper {
                         className="card-description"
                 >
                         <p>
-                                <b>
+                                <b
+                                        className="description-title"
+                                >
                                         Description:
                                 </b>
                                 HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -432,7 +456,9 @@ ShallowWrapper {
                                 Cats are so funny you will die laughing - Funny cat compilation
                         </b>
                 </div>
-                <div>
+                <div
+                        className="date-title"
+                >
                         <span
                                 className="date"
                         >
@@ -443,7 +469,9 @@ ShallowWrapper {
                         className="card-description"
                 >
                         <p>
-                                <b>
+                                <b
+                                        className="description-title"
+                                >
                                         Description:
                                 </b>
                                 Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -469,7 +497,9 @@ ShallowWrapper {
                                 Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
                         </b>
                 </div>
-                <div>
+                <div
+                        className="date-title"
+                >
                         <span
                                 className="date"
                         >
@@ -480,7 +510,9 @@ ShallowWrapper {
                         className="card-description"
                 >
                         <p>
-                                <b>
+                                <b
+                                        className="description-title"
+                                >
                                         Description:
                                 </b>
                                 Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -506,7 +538,9 @@ ShallowWrapper {
                                 Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
                         </b>
                 </div>
-                <div>
+                <div
+                        className="date-title"
+                >
                         <span
                                 className="date"
                         >
@@ -517,7 +551,9 @@ ShallowWrapper {
                         className="card-description"
                 >
                         <p>
-                                <b>
+                                <b
+                                        className="description-title"
+                                >
                                         Description:
                                 </b>
                                 CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -543,7 +579,9 @@ ShallowWrapper {
                                 Hilarious Cat Fails (April 2017)
                         </b>
                 </div>
-                <div>
+                <div
+                        className="date-title"
+                >
                         <span
                                 className="date"
                         >
@@ -554,7 +592,9 @@ ShallowWrapper {
                         className="card-description"
                 >
                         <p>
-                                <b>
+                                <b
+                                        className="description-title"
+                                >
                                         Description:
                                 </b>
                                 Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -794,7 +834,9 @@ ShallowWrapper {
                                                   CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
                                         </b>
                               </div>
-                              <div>
+                              <div
+                                        className="date-title"
+                              >
                                         <span
                                                   className="date"
                                         >
@@ -805,7 +847,9 @@ ShallowWrapper {
                                         className="card-description"
                               >
                                         <p>
-                                                  <b>
+                                                  <b
+                                                            className="description-title"
+                                                  >
                                                             Description:
                                                   </b>
                                                   HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -831,7 +875,9 @@ ShallowWrapper {
                                                   Cats are so funny you will die laughing - Funny cat compilation
                                         </b>
                               </div>
-                              <div>
+                              <div
+                                        className="date-title"
+                              >
                                         <span
                                                   className="date"
                                         >
@@ -842,7 +888,9 @@ ShallowWrapper {
                                         className="card-description"
                               >
                                         <p>
-                                                  <b>
+                                                  <b
+                                                            className="description-title"
+                                                  >
                                                             Description:
                                                   </b>
                                                   Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -868,7 +916,9 @@ ShallowWrapper {
                                                   Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
                                         </b>
                               </div>
-                              <div>
+                              <div
+                                        className="date-title"
+                              >
                                         <span
                                                   className="date"
                                         >
@@ -879,7 +929,9 @@ ShallowWrapper {
                                         className="card-description"
                               >
                                         <p>
-                                                  <b>
+                                                  <b
+                                                            className="description-title"
+                                                  >
                                                             Description:
                                                   </b>
                                                   Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -905,7 +957,9 @@ ShallowWrapper {
                                                   Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
                                         </b>
                               </div>
-                              <div>
+                              <div
+                                        className="date-title"
+                              >
                                         <span
                                                   className="date"
                                         >
@@ -916,7 +970,9 @@ ShallowWrapper {
                                         className="card-description"
                               >
                                         <p>
-                                                  <b>
+                                                  <b
+                                                            className="description-title"
+                                                  >
                                                             Description:
                                                   </b>
                                                   CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -942,7 +998,9 @@ ShallowWrapper {
                                                   Hilarious Cat Fails (April 2017)
                                         </b>
                               </div>
-                              <div>
+                              <div
+                                        className="date-title"
+                              >
                                         <span
                                                   className="date"
                                         >
@@ -953,7 +1011,9 @@ ShallowWrapper {
                                         className="card-description"
                               >
                                         <p>
-                                                  <b>
+                                                  <b
+                                                            className="description-title"
+                                                  >
                                                             Description:
                                                   </b>
                                                   Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -1014,7 +1074,9 @@ ShallowWrapper {
                                                         CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
                                           </b>
                             </div>
-                            <div>
+                            <div
+                                          className="date-title"
+                            >
                                           <span
                                                         className="date"
                                           >
@@ -1025,7 +1087,9 @@ ShallowWrapper {
                                           className="card-description"
                             >
                                           <p>
-                                                        <b>
+                                                        <b
+                                                                      className="description-title"
+                                                        >
                                                                       Description:
                                                         </b>
                                                         HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -1051,7 +1115,9 @@ ShallowWrapper {
                                                         Cats are so funny you will die laughing - Funny cat compilation
                                           </b>
                             </div>
-                            <div>
+                            <div
+                                          className="date-title"
+                            >
                                           <span
                                                         className="date"
                                           >
@@ -1062,7 +1128,9 @@ ShallowWrapper {
                                           className="card-description"
                             >
                                           <p>
-                                                        <b>
+                                                        <b
+                                                                      className="description-title"
+                                                        >
                                                                       Description:
                                                         </b>
                                                         Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -1088,7 +1156,9 @@ ShallowWrapper {
                                                         Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
                                           </b>
                             </div>
-                            <div>
+                            <div
+                                          className="date-title"
+                            >
                                           <span
                                                         className="date"
                                           >
@@ -1099,7 +1169,9 @@ ShallowWrapper {
                                           className="card-description"
                             >
                                           <p>
-                                                        <b>
+                                                        <b
+                                                                      className="description-title"
+                                                        >
                                                                       Description:
                                                         </b>
                                                         Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -1125,7 +1197,9 @@ ShallowWrapper {
                                                         Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
                                           </b>
                             </div>
-                            <div>
+                            <div
+                                          className="date-title"
+                            >
                                           <span
                                                         className="date"
                                           >
@@ -1136,7 +1210,9 @@ ShallowWrapper {
                                           className="card-description"
                             >
                                           <p>
-                                                        <b>
+                                                        <b
+                                                                      className="description-title"
+                                                        >
                                                                       Description:
                                                         </b>
                                                         CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -1162,7 +1238,9 @@ ShallowWrapper {
                                                         Hilarious Cat Fails (April 2017)
                                           </b>
                             </div>
-                            <div>
+                            <div
+                                          className="date-title"
+                            >
                                           <span
                                                         className="date"
                                           >
@@ -1173,7 +1251,9 @@ ShallowWrapper {
                                           className="card-description"
                             >
                                           <p>
-                                                        <b>
+                                                        <b
+                                                                      className="description-title"
+                                                        >
                                                                       Description:
                                                         </b>
                                                         Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -1208,7 +1288,9 @@ ShallowWrapper {
                                                 CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
                                 </b>
                 </div>
-                <div>
+                <div
+                                className="date-title"
+                >
                                 <span
                                                 className="date"
                                 >
@@ -1219,7 +1301,9 @@ ShallowWrapper {
                                 className="card-description"
                 >
                                 <p>
-                                                <b>
+                                                <b
+                                                                className="description-title"
+                                                >
                                                                 Description:
                                                 </b>
                                                 HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -1246,7 +1330,9 @@ ShallowWrapper {
                                         CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
                     </b>
 </div>,
-                  <div>
+                  <div
+                    className="date-title"
+>
                     <span
                                         className="date"
                     >
@@ -1257,7 +1343,9 @@ ShallowWrapper {
                     className="card-description"
 >
                     <p>
-                                        <b>
+                                        <b
+                                                            className="description-title"
+                                        >
                                                             Description:
                                         </b>
                                         HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -1317,6 +1405,7 @@ ShallowWrapper {
 >
                       2017-05-31T09:30:02.000Z
 </span>,
+                    "className": "date-title",
                   },
                   "ref": null,
                   "rendered": Object {
@@ -1339,7 +1428,9 @@ ShallowWrapper {
                   "nodeType": "host",
                   "props": Object {
                     "children": <p>
-                      <b>
+                      <b
+                                            className="description-title"
+                      >
                                             Description:
                       </b>
                       HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -1353,7 +1444,9 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": Array [
-                        <b>
+                        <b
+                          className="description-title"
+>
                           Description:
 </b>,
                         "HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...",
@@ -1367,6 +1460,7 @@ ShallowWrapper {
                         "nodeType": "host",
                         "props": Object {
                           "children": "Description:",
+                          "className": "description-title",
                         },
                         "ref": null,
                         "rendered": "Description:",
@@ -1405,7 +1499,9 @@ ShallowWrapper {
                                                 Cats are so funny you will die laughing - Funny cat compilation
                                 </b>
                 </div>
-                <div>
+                <div
+                                className="date-title"
+                >
                                 <span
                                                 className="date"
                                 >
@@ -1416,7 +1512,9 @@ ShallowWrapper {
                                 className="card-description"
                 >
                                 <p>
-                                                <b>
+                                                <b
+                                                                className="description-title"
+                                                >
                                                                 Description:
                                                 </b>
                                                 Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -1443,7 +1541,9 @@ ShallowWrapper {
                                         Cats are so funny you will die laughing - Funny cat compilation
                     </b>
 </div>,
-                  <div>
+                  <div
+                    className="date-title"
+>
                     <span
                                         className="date"
                     >
@@ -1454,7 +1554,9 @@ ShallowWrapper {
                     className="card-description"
 >
                     <p>
-                                        <b>
+                                        <b
+                                                            className="description-title"
+                                        >
                                                             Description:
                                         </b>
                                         Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -1514,6 +1616,7 @@ ShallowWrapper {
 >
                       2016-12-24T10:30:00.000Z
 </span>,
+                    "className": "date-title",
                   },
                   "ref": null,
                   "rendered": Object {
@@ -1536,7 +1639,9 @@ ShallowWrapper {
                   "nodeType": "host",
                   "props": Object {
                     "children": <p>
-                      <b>
+                      <b
+                                            className="description-title"
+                      >
                                             Description:
                       </b>
                       Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -1550,7 +1655,9 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": Array [
-                        <b>
+                        <b
+                          className="description-title"
+>
                           Description:
 </b>,
                         "Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...",
@@ -1564,6 +1671,7 @@ ShallowWrapper {
                         "nodeType": "host",
                         "props": Object {
                           "children": "Description:",
+                          "className": "description-title",
                         },
                         "ref": null,
                         "rendered": "Description:",
@@ -1602,7 +1710,9 @@ ShallowWrapper {
                                                 Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
                                 </b>
                 </div>
-                <div>
+                <div
+                                className="date-title"
+                >
                                 <span
                                                 className="date"
                                 >
@@ -1613,7 +1723,9 @@ ShallowWrapper {
                                 className="card-description"
                 >
                                 <p>
-                                                <b>
+                                                <b
+                                                                className="description-title"
+                                                >
                                                                 Description:
                                                 </b>
                                                 Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -1640,7 +1752,9 @@ ShallowWrapper {
                                         Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
                     </b>
 </div>,
-                  <div>
+                  <div
+                    className="date-title"
+>
                     <span
                                         className="date"
                     >
@@ -1651,7 +1765,9 @@ ShallowWrapper {
                     className="card-description"
 >
                     <p>
-                                        <b>
+                                        <b
+                                                            className="description-title"
+                                        >
                                                             Description:
                                         </b>
                                         Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -1711,6 +1827,7 @@ ShallowWrapper {
 >
                       2013-12-31T05:21:57.000Z
 </span>,
+                    "className": "date-title",
                   },
                   "ref": null,
                   "rendered": Object {
@@ -1733,7 +1850,9 @@ ShallowWrapper {
                   "nodeType": "host",
                   "props": Object {
                     "children": <p>
-                      <b>
+                      <b
+                                            className="description-title"
+                      >
                                             Description:
                       </b>
                       Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -1747,7 +1866,9 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": Array [
-                        <b>
+                        <b
+                          className="description-title"
+>
                           Description:
 </b>,
                         "Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...",
@@ -1761,6 +1882,7 @@ ShallowWrapper {
                         "nodeType": "host",
                         "props": Object {
                           "children": "Description:",
+                          "className": "description-title",
                         },
                         "ref": null,
                         "rendered": "Description:",
@@ -1799,7 +1921,9 @@ ShallowWrapper {
                                                 Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
                                 </b>
                 </div>
-                <div>
+                <div
+                                className="date-title"
+                >
                                 <span
                                                 className="date"
                                 >
@@ -1810,7 +1934,9 @@ ShallowWrapper {
                                 className="card-description"
                 >
                                 <p>
-                                                <b>
+                                                <b
+                                                                className="description-title"
+                                                >
                                                                 Description:
                                                 </b>
                                                 CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -1837,7 +1963,9 @@ ShallowWrapper {
                                         Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
                     </b>
 </div>,
-                  <div>
+                  <div
+                    className="date-title"
+>
                     <span
                                         className="date"
                     >
@@ -1848,7 +1976,9 @@ ShallowWrapper {
                     className="card-description"
 >
                     <p>
-                                        <b>
+                                        <b
+                                                            className="description-title"
+                                        >
                                                             Description:
                                         </b>
                                         CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -1908,6 +2038,7 @@ ShallowWrapper {
 >
                       2016-06-26T13:50:56.000Z
 </span>,
+                    "className": "date-title",
                   },
                   "ref": null,
                   "rendered": Object {
@@ -1930,7 +2061,9 @@ ShallowWrapper {
                   "nodeType": "host",
                   "props": Object {
                     "children": <p>
-                      <b>
+                      <b
+                                            className="description-title"
+                      >
                                             Description:
                       </b>
                       CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -1944,7 +2077,9 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": Array [
-                        <b>
+                        <b
+                          className="description-title"
+>
                           Description:
 </b>,
                         "CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...",
@@ -1958,6 +2093,7 @@ ShallowWrapper {
                         "nodeType": "host",
                         "props": Object {
                           "children": "Description:",
+                          "className": "description-title",
                         },
                         "ref": null,
                         "rendered": "Description:",
@@ -1996,7 +2132,9 @@ ShallowWrapper {
                                                 Hilarious Cat Fails (April 2017)
                                 </b>
                 </div>
-                <div>
+                <div
+                                className="date-title"
+                >
                                 <span
                                                 className="date"
                                 >
@@ -2007,7 +2145,9 @@ ShallowWrapper {
                                 className="card-description"
                 >
                                 <p>
-                                                <b>
+                                                <b
+                                                                className="description-title"
+                                                >
                                                                 Description:
                                                 </b>
                                                 Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -2034,7 +2174,9 @@ ShallowWrapper {
                                         Hilarious Cat Fails (April 2017)
                     </b>
 </div>,
-                  <div>
+                  <div
+                    className="date-title"
+>
                     <span
                                         className="date"
                     >
@@ -2045,7 +2187,9 @@ ShallowWrapper {
                     className="card-description"
 >
                     <p>
-                                        <b>
+                                        <b
+                                                            className="description-title"
+                                        >
                                                             Description:
                                         </b>
                                         Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -2105,6 +2249,7 @@ ShallowWrapper {
 >
                       2017-05-02T12:00:00.000Z
 </span>,
+                    "className": "date-title",
                   },
                   "ref": null,
                   "rendered": Object {
@@ -2127,7 +2272,9 @@ ShallowWrapper {
                   "nodeType": "host",
                   "props": Object {
                     "children": <p>
-                      <b>
+                      <b
+                                            className="description-title"
+                      >
                                             Description:
                       </b>
                       Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -2141,7 +2288,9 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": Array [
-                        <b>
+                        <b
+                          className="description-title"
+>
                           Description:
 </b>,
                         "Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...",
@@ -2155,6 +2304,7 @@ ShallowWrapper {
                         "nodeType": "host",
                         "props": Object {
                           "children": "Description:",
+                          "className": "description-title",
                         },
                         "ref": null,
                         "rendered": "Description:",
@@ -2210,7 +2360,9 @@ ShallowWrapper {
                                                             CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
                                                 </b>
                                     </div>
-                                    <div>
+                                    <div
+                                                className="date-title"
+                                    >
                                                 <span
                                                             className="date"
                                                 >
@@ -2221,7 +2373,9 @@ ShallowWrapper {
                                                 className="card-description"
                                     >
                                                 <p>
-                                                            <b>
+                                                            <b
+                                                                        className="description-title"
+                                                            >
                                                                         Description:
                                                             </b>
                                                             HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -2247,7 +2401,9 @@ ShallowWrapper {
                                                             Cats are so funny you will die laughing - Funny cat compilation
                                                 </b>
                                     </div>
-                                    <div>
+                                    <div
+                                                className="date-title"
+                                    >
                                                 <span
                                                             className="date"
                                                 >
@@ -2258,7 +2414,9 @@ ShallowWrapper {
                                                 className="card-description"
                                     >
                                                 <p>
-                                                            <b>
+                                                            <b
+                                                                        className="description-title"
+                                                            >
                                                                         Description:
                                                             </b>
                                                             Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -2284,7 +2442,9 @@ ShallowWrapper {
                                                             Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
                                                 </b>
                                     </div>
-                                    <div>
+                                    <div
+                                                className="date-title"
+                                    >
                                                 <span
                                                             className="date"
                                                 >
@@ -2295,7 +2455,9 @@ ShallowWrapper {
                                                 className="card-description"
                                     >
                                                 <p>
-                                                            <b>
+                                                            <b
+                                                                        className="description-title"
+                                                            >
                                                                         Description:
                                                             </b>
                                                             Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -2321,7 +2483,9 @@ ShallowWrapper {
                                                             Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
                                                 </b>
                                     </div>
-                                    <div>
+                                    <div
+                                                className="date-title"
+                                    >
                                                 <span
                                                             className="date"
                                                 >
@@ -2332,7 +2496,9 @@ ShallowWrapper {
                                                 className="card-description"
                                     >
                                                 <p>
-                                                            <b>
+                                                            <b
+                                                                        className="description-title"
+                                                            >
                                                                         Description:
                                                             </b>
                                                             CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -2358,7 +2524,9 @@ ShallowWrapper {
                                                             Hilarious Cat Fails (April 2017)
                                                 </b>
                                     </div>
-                                    <div>
+                                    <div
+                                                className="date-title"
+                                    >
                                                 <span
                                                             className="date"
                                                 >
@@ -2369,7 +2537,9 @@ ShallowWrapper {
                                                 className="card-description"
                                     >
                                                 <p>
-                                                            <b>
+                                                            <b
+                                                                        className="description-title"
+                                                            >
                                                                         Description:
                                                             </b>
                                                             Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -2430,7 +2600,9 @@ ShallowWrapper {
                                                                 CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
                                                 </b>
                                 </div>
-                                <div>
+                                <div
+                                                className="date-title"
+                                >
                                                 <span
                                                                 className="date"
                                                 >
@@ -2441,7 +2613,9 @@ ShallowWrapper {
                                                 className="card-description"
                                 >
                                                 <p>
-                                                                <b>
+                                                                <b
+                                                                                className="description-title"
+                                                                >
                                                                                 Description:
                                                                 </b>
                                                                 HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -2467,7 +2641,9 @@ ShallowWrapper {
                                                                 Cats are so funny you will die laughing - Funny cat compilation
                                                 </b>
                                 </div>
-                                <div>
+                                <div
+                                                className="date-title"
+                                >
                                                 <span
                                                                 className="date"
                                                 >
@@ -2478,7 +2654,9 @@ ShallowWrapper {
                                                 className="card-description"
                                 >
                                                 <p>
-                                                                <b>
+                                                                <b
+                                                                                className="description-title"
+                                                                >
                                                                                 Description:
                                                                 </b>
                                                                 Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -2504,7 +2682,9 @@ ShallowWrapper {
                                                                 Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
                                                 </b>
                                 </div>
-                                <div>
+                                <div
+                                                className="date-title"
+                                >
                                                 <span
                                                                 className="date"
                                                 >
@@ -2515,7 +2695,9 @@ ShallowWrapper {
                                                 className="card-description"
                                 >
                                                 <p>
-                                                                <b>
+                                                                <b
+                                                                                className="description-title"
+                                                                >
                                                                                 Description:
                                                                 </b>
                                                                 Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -2541,7 +2723,9 @@ ShallowWrapper {
                                                                 Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
                                                 </b>
                                 </div>
-                                <div>
+                                <div
+                                                className="date-title"
+                                >
                                                 <span
                                                                 className="date"
                                                 >
@@ -2552,7 +2736,9 @@ ShallowWrapper {
                                                 className="card-description"
                                 >
                                                 <p>
-                                                                <b>
+                                                                <b
+                                                                                className="description-title"
+                                                                >
                                                                                 Description:
                                                                 </b>
                                                                 CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -2578,7 +2764,9 @@ ShallowWrapper {
                                                                 Hilarious Cat Fails (April 2017)
                                                 </b>
                                 </div>
-                                <div>
+                                <div
+                                                className="date-title"
+                                >
                                                 <span
                                                                 className="date"
                                                 >
@@ -2589,7 +2777,9 @@ ShallowWrapper {
                                                 className="card-description"
                                 >
                                                 <p>
-                                                                <b>
+                                                                <b
+                                                                                className="description-title"
+                                                                >
                                                                                 Description:
                                                                 </b>
                                                                 Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -2624,7 +2814,9 @@ ShallowWrapper {
                                                       CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
                                     </b>
                   </div>
-                  <div>
+                  <div
+                                    className="date-title"
+                  >
                                     <span
                                                       className="date"
                                     >
@@ -2635,7 +2827,9 @@ ShallowWrapper {
                                     className="card-description"
                   >
                                     <p>
-                                                      <b>
+                                                      <b
+                                                                        className="description-title"
+                                                      >
                                                                         Description:
                                                       </b>
                                                       HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -2662,7 +2856,9 @@ ShallowWrapper {
                                             CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation
                       </b>
 </div>,
-                    <div>
+                    <div
+                      className="date-title"
+>
                       <span
                                             className="date"
                       >
@@ -2673,7 +2869,9 @@ ShallowWrapper {
                       className="card-description"
 >
                       <p>
-                                            <b>
+                                            <b
+                                                                  className="description-title"
+                                            >
                                                                   Description:
                                             </b>
                                             HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -2733,6 +2931,7 @@ ShallowWrapper {
 >
                         2017-05-31T09:30:02.000Z
 </span>,
+                      "className": "date-title",
                     },
                     "ref": null,
                     "rendered": Object {
@@ -2755,7 +2954,9 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": <p>
-                        <b>
+                        <b
+                                                className="description-title"
+                        >
                                                 Description:
                         </b>
                         HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...
@@ -2769,7 +2970,9 @@ ShallowWrapper {
                       "nodeType": "host",
                       "props": Object {
                         "children": Array [
-                          <b>
+                          <b
+                            className="description-title"
+>
                             Description:
 </b>,
                           "HELP HOMELESS ANIMALS AND WIN A PRIZE BY CHOOSING AN AWESOME ITEM FROM OUR STORE: https://fanjoy.co/collections/tiger-productions ...",
@@ -2783,6 +2986,7 @@ ShallowWrapper {
                           "nodeType": "host",
                           "props": Object {
                             "children": "Description:",
+                            "className": "description-title",
                           },
                           "ref": null,
                           "rendered": "Description:",
@@ -2821,7 +3025,9 @@ ShallowWrapper {
                                                       Cats are so funny you will die laughing - Funny cat compilation
                                     </b>
                   </div>
-                  <div>
+                  <div
+                                    className="date-title"
+                  >
                                     <span
                                                       className="date"
                                     >
@@ -2832,7 +3038,9 @@ ShallowWrapper {
                                     className="card-description"
                   >
                                     <p>
-                                                      <b>
+                                                      <b
+                                                                        className="description-title"
+                                                      >
                                                                         Description:
                                                       </b>
                                                       Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -2859,7 +3067,9 @@ ShallowWrapper {
                                             Cats are so funny you will die laughing - Funny cat compilation
                       </b>
 </div>,
-                    <div>
+                    <div
+                      className="date-title"
+>
                       <span
                                             className="date"
                       >
@@ -2870,7 +3080,9 @@ ShallowWrapper {
                       className="card-description"
 >
                       <p>
-                                            <b>
+                                            <b
+                                                                  className="description-title"
+                                            >
                                                                   Description:
                                             </b>
                                             Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -2930,6 +3142,7 @@ ShallowWrapper {
 >
                         2016-12-24T10:30:00.000Z
 </span>,
+                      "className": "date-title",
                     },
                     "ref": null,
                     "rendered": Object {
@@ -2952,7 +3165,9 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": <p>
-                        <b>
+                        <b
+                                                className="description-title"
+                        >
                                                 Description:
                         </b>
                         Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...
@@ -2966,7 +3181,9 @@ ShallowWrapper {
                       "nodeType": "host",
                       "props": Object {
                         "children": Array [
-                          <b>
+                          <b
+                            className="description-title"
+>
                             Description:
 </b>,
                           "Cats are simply the funniest and most hilarious pets, they make us laugh all the time! Just look how all these cats & kittens play, fail, get along with dogs and ...",
@@ -2980,6 +3197,7 @@ ShallowWrapper {
                           "nodeType": "host",
                           "props": Object {
                             "children": "Description:",
+                            "className": "description-title",
                           },
                           "ref": null,
                           "rendered": "Description:",
@@ -3018,7 +3236,9 @@ ShallowWrapper {
                                                       Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
                                     </b>
                   </div>
-                  <div>
+                  <div
+                                    className="date-title"
+                  >
                                     <span
                                                       className="date"
                                     >
@@ -3029,7 +3249,9 @@ ShallowWrapper {
                                     className="card-description"
                   >
                                     <p>
-                                                      <b>
+                                                      <b
+                                                                        className="description-title"
+                                                      >
                                                                         Description:
                                                       </b>
                                                       Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -3056,7 +3278,9 @@ ShallowWrapper {
                                             Funny Cats Compilation [Most See] Funny Cat Videos Ever Part 1
                       </b>
 </div>,
-                    <div>
+                    <div
+                      className="date-title"
+>
                       <span
                                             className="date"
                       >
@@ -3067,7 +3291,9 @@ ShallowWrapper {
                       className="card-description"
 >
                       <p>
-                                            <b>
+                                            <b
+                                                                  className="description-title"
+                                            >
                                                                   Description:
                                             </b>
                                             Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -3127,6 +3353,7 @@ ShallowWrapper {
 >
                         2013-12-31T05:21:57.000Z
 </span>,
+                      "className": "date-title",
                     },
                     "ref": null,
                     "rendered": Object {
@@ -3149,7 +3376,9 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": <p>
-                        <b>
+                        <b
+                                                className="description-title"
+                        >
                                                 Description:
                         </b>
                         Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...
@@ -3163,7 +3392,9 @@ ShallowWrapper {
                       "nodeType": "host",
                       "props": Object {
                         "children": Array [
-                          <b>
+                          <b
+                            className="description-title"
+>
                             Description:
 </b>,
                           "Funny Cats Compilation - Funny Cat Videos - Funny Videos Check out the NEW Part 2 Compilation!: https://youtu.be/XHr2cvkA8rQ Funny Cats Compilation Try ...",
@@ -3177,6 +3408,7 @@ ShallowWrapper {
                           "nodeType": "host",
                           "props": Object {
                             "children": "Description:",
+                            "className": "description-title",
                           },
                           "ref": null,
                           "rendered": "Description:",
@@ -3215,7 +3447,9 @@ ShallowWrapper {
                                                       Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
                                     </b>
                   </div>
-                  <div>
+                  <div
+                                    className="date-title"
+                  >
                                     <span
                                                       className="date"
                                     >
@@ -3226,7 +3460,9 @@ ShallowWrapper {
                                     className="card-description"
                   >
                                     <p>
-                                                      <b>
+                                                      <b
+                                                                        className="description-title"
+                                                      >
                                                                         Description:
                                                       </b>
                                                       CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -3253,7 +3489,9 @@ ShallowWrapper {
                                             Funny Cats Compilation 2016  - Best Funny Cat Videos Ever || Funny Vines
                       </b>
 </div>,
-                    <div>
+                    <div
+                      className="date-title"
+>
                       <span
                                             className="date"
                       >
@@ -3264,7 +3502,9 @@ ShallowWrapper {
                       className="card-description"
 >
                       <p>
-                                            <b>
+                                            <b
+                                                                  className="description-title"
+                                            >
                                                                   Description:
                                             </b>
                                             CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -3324,6 +3564,7 @@ ShallowWrapper {
 >
                         2016-06-26T13:50:56.000Z
 </span>,
+                      "className": "date-title",
                     },
                     "ref": null,
                     "rendered": Object {
@@ -3346,7 +3587,9 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": <p>
-                        <b>
+                        <b
+                                                className="description-title"
+                        >
                                                 Description:
                         </b>
                         CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...
@@ -3360,7 +3603,9 @@ ShallowWrapper {
                       "nodeType": "host",
                       "props": Object {
                         "children": Array [
-                          <b>
+                          <b
+                            className="description-title"
+>
                             Description:
 </b>,
                           "CLICK NOW: https://goo.gl/TSNzGP for 25% discount T-Shirt in Sunfrog with code ILIKE25PLEEZ (Expired 31/10/17) 60$ OFF 200$ or more buyer total purchase ...",
@@ -3374,6 +3619,7 @@ ShallowWrapper {
                           "nodeType": "host",
                           "props": Object {
                             "children": "Description:",
+                            "className": "description-title",
                           },
                           "ref": null,
                           "rendered": "Description:",
@@ -3412,7 +3658,9 @@ ShallowWrapper {
                                                       Hilarious Cat Fails (April 2017)
                                     </b>
                   </div>
-                  <div>
+                  <div
+                                    className="date-title"
+                  >
                                     <span
                                                       className="date"
                                     >
@@ -3423,7 +3671,9 @@ ShallowWrapper {
                                     className="card-description"
                   >
                                     <p>
-                                                      <b>
+                                                      <b
+                                                                        className="description-title"
+                                                      >
                                                                         Description:
                                                       </b>
                                                       Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -3450,7 +3700,9 @@ ShallowWrapper {
                                             Hilarious Cat Fails (April 2017)
                       </b>
 </div>,
-                    <div>
+                    <div
+                      className="date-title"
+>
                       <span
                                             className="date"
                       >
@@ -3461,7 +3713,9 @@ ShallowWrapper {
                       className="card-description"
 >
                       <p>
-                                            <b>
+                                            <b
+                                                                  className="description-title"
+                                            >
                                                                   Description:
                                             </b>
                                             Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -3521,6 +3775,7 @@ ShallowWrapper {
 >
                         2017-05-02T12:00:00.000Z
 </span>,
+                      "className": "date-title",
                     },
                     "ref": null,
                     "rendered": Object {
@@ -3543,7 +3798,9 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": <p>
-                        <b>
+                        <b
+                                                className="description-title"
+                        >
                                                 Description:
                         </b>
                         Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...
@@ -3557,7 +3814,9 @@ ShallowWrapper {
                       "nodeType": "host",
                       "props": Object {
                         "children": Array [
-                          <b>
+                          <b
+                            className="description-title"
+>
                             Description:
 </b>,
                           "Enjoy these hilarious cat fails, some of them are just mean though!! Which feline is your favorite? Tell us in the comment section and don't forget to submit your ...",
@@ -3571,6 +3830,7 @@ ShallowWrapper {
                           "nodeType": "host",
                           "props": Object {
                             "children": "Description:",
+                            "className": "description-title",
                           },
                           "ref": null,
                           "rendered": "Description:",

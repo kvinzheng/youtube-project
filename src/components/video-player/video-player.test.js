@@ -48,8 +48,8 @@ describe('SearchBar Component', () => {
     expect(component.find('.video-player').length).toBe(1);
     expect(component.find('.player').length).toBe(1);
     expect(component.find('.back-to-home').length).toBe(1);
-    expect(component.find('.videoTitle').length).toBe(1);
-    expect(component.find('.videoDescription').length).toBe(1);
+    expect(component.find('.video-title').length).toBe(1);
+    expect(component.find('.video-description').length).toBe(1);
   });
 
   it('mapStateToProps', () => {

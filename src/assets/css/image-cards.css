@@ -26,6 +26,10 @@
   color: #6a6c70;
 }
 
+.date-title {
+  text-align: center;
+}
+
 .youtube-icon {
   margin-top: 20px;
 }
@@ -61,6 +65,11 @@
 
 .card-description {
   margin-top: 5px;
+  margin-left: 5px;
+}
+
+.description-title {
+  margin-right: 5px;
 }
 
 .sidebar {

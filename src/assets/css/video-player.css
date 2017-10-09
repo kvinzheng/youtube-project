@@ -2,6 +2,15 @@
   margin: auto;
   margin-top: 120px;
   width: 720px;
+  font-size: 105%;
+  color:#022763;
+  font-weight: bold;
+}
+
+.back-to-home-container {
+  margin: auto;
+  margin-top: 120px;
+  width: 720px;
   font-size: 150%;
   color:#022763;
   font-weight: bold;
@@ -12,11 +21,15 @@
   width: 720px;
 }
 
-.videoDescription {
+.video-description {
   text-align: left;
 }
 
-.videoTitle {
+.video-description .video-title {
+  font-weight: bold;
+}
+
+.video-title {
   text-align: center;
 }
 

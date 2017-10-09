@@ -11,9 +11,9 @@ const VideoPlayer = ({ status, id, title, channelTitle, description, history }) 
           <div>
             <iframe title={title} className="player" src={`https://www.youtube.com/embed/${id}`} />
           </div>
-          <div className="videoDescription">
-            <h3 className="videoTitle">{title}</h3>
-            <h5>{`Channel: ${channelTitle}`}</h5>
+          <div className="video-description">
+            <h3 className="video-title">{title}</h3>
+            <h4>{`Channel: ${channelTitle}`}</h4>
             <p>{description}</p>
           </div>
         </div>
@@ -25,7 +25,7 @@ const VideoPlayer = ({ status, id, title, channelTitle, description, history }) 
   } else {
     return (
       <div>
-        <div className="video-player"> Please go back to home page and select a video</div>
+        <div className="back-to-home-container"> Please go back to home page and select a video</div>
         <button className="back-to-home" onClick={() => history.push('/')}>
           Back To Youtube Home Page
         </button>
