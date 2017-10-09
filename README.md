@@ -26,15 +26,14 @@ To utilize this repo, please do the following:
 ## Testing ##
 I screenshotted the testing coverage:
 
-Test Coverage Details:
+**Test Coverage Details:**
 
-Test Coverage Details:
 - Test coverage for components is **100%**
 - Test coverage for reducers is **100%**
 - Test coverage for actions is **100%**
 - Test coverage for utils/api is **100%**
 
-NOTE: To view the tests, cd into the root directory run the following command
+**NOTE: To view the tests, cd into the root directory run the following command**
 
 1. run ```npm test``` to run all the tests without the test coverage interface
 2. run ```npm test -- --coverage``` to run all the files with the test coverage interface
