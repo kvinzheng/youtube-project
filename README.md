@@ -42,7 +42,7 @@ NOTE: I ignore src/index.js when running the coverage. I don't need to test Reac
 4. run ```npm test -- --coverage``` to run all the files with the test coverage interface
 5. run ```open coverage/lcov-report/index.html ``` to open coverage files detail with all files
 
-<img src="./src/assets/test-coverage.png" width="600" />
+<img src="./src/assets/testing-coverage.png" width="600" />
 
 
 ## Technologies Used
