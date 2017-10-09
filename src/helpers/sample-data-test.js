@@ -208,17 +208,18 @@ export const videos = {
 
 export const sampleData = {
   search: {
-    picture: 'dog'
+    picture: 'dog',
   },
   selectedVideo: {
     video: video,
-    status: 'FULFILLED'
+    status: 'FULFILLED',
   },
   youtubeData: {
     myData: videos,
-    status: 'FULFILLED'
-  }
-}
+    status: 'FULFILLED',
+  },
+};
+
 export const emptySampleData = {
   search: {
     picture: null,
@@ -230,5 +231,5 @@ export const emptySampleData = {
   youtubeData: {
     myData: null,
     status: null,
-  }
-}
+  },
+};

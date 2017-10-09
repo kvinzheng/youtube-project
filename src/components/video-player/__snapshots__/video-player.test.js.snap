@@ -54,7 +54,7 @@ ShallowWrapper {
           className="back-to-home"
           onClick={[Function]}
 >
-          Back To Youtube Search Home Page
+          Back To Youtube Home Page
 </button>,
       ],
     },
@@ -187,12 +187,12 @@ ShallowWrapper {
         "key": null,
         "nodeType": "host",
         "props": Object {
-          "children": "Back To Youtube Search Home Page",
+          "children": "Back To Youtube Home Page",
           "className": "back-to-home",
           "onClick": [Function],
         },
         "ref": null,
-        "rendered": "Back To Youtube Search Home Page",
+        "rendered": "Back To Youtube Home Page",
         "type": "button",
       },
     ],
@@ -235,7 +235,7 @@ ShallowWrapper {
             className="back-to-home"
             onClick={[Function]}
 >
-            Back To Youtube Search Home Page
+            Back To Youtube Home Page
 </button>,
         ],
       },
@@ -368,12 +368,12 @@ ShallowWrapper {
           "key": null,
           "nodeType": "host",
           "props": Object {
-            "children": "Back To Youtube Search Home Page",
+            "children": "Back To Youtube Home Page",
             "className": "back-to-home",
             "onClick": [Function],
           },
           "ref": null,
-          "rendered": "Back To Youtube Search Home Page",
+          "rendered": "Back To Youtube Home Page",
           "type": "button",
         },
       ],
@@ -412,9 +412,49 @@ ShallowWrapper {
     "instance": null,
     "key": null,
     "nodeType": "host",
-    "props": Object {},
+    "props": Object {
+      "children": Array [
+        <div
+          className="video-player"
+>
+           Please go back to home page and select a video
+</div>,
+        <button
+          className="back-to-home"
+          onClick={[Function]}
+>
+          Back To Youtube Home Page
+</button>,
+      ],
+    },
     "ref": null,
-    "rendered": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": null,
+        "nodeType": "host",
+        "props": Object {
+          "children": " Please go back to home page and select a video",
+          "className": "video-player",
+        },
+        "ref": null,
+        "rendered": " Please go back to home page and select a video",
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": null,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Back To Youtube Home Page",
+          "className": "back-to-home",
+          "onClick": [Function],
+        },
+        "ref": null,
+        "rendered": "Back To Youtube Home Page",
+        "type": "button",
+      },
+    ],
     "type": "div",
   },
   Symbol(enzyme.__nodes__): Array [
@@ -422,9 +462,49 @@ ShallowWrapper {
       "instance": null,
       "key": null,
       "nodeType": "host",
-      "props": Object {},
+      "props": Object {
+        "children": Array [
+          <div
+            className="video-player"
+>
+             Please go back to home page and select a video
+</div>,
+          <button
+            className="back-to-home"
+            onClick={[Function]}
+>
+            Back To Youtube Home Page
+</button>,
+        ],
+      },
       "ref": null,
-      "rendered": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": null,
+          "nodeType": "host",
+          "props": Object {
+            "children": " Please go back to home page and select a video",
+            "className": "video-player",
+          },
+          "ref": null,
+          "rendered": " Please go back to home page and select a video",
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": null,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Back To Youtube Home Page",
+            "className": "back-to-home",
+            "onClick": [Function],
+          },
+          "ref": null,
+          "rendered": "Back To Youtube Home Page",
+          "type": "button",
+        },
+      ],
       "type": "div",
     },
   ],

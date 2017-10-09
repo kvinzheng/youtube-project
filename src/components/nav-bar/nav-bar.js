@@ -1,7 +1,7 @@
 import React from 'react';
-import {withRouter} from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 
-export const NavBar = ({history}) => (
+export const NavBar = ({ history }) => (
   <div id="navbar">
     <div id="title">
       <div className="menu-item">
@@ -9,9 +9,12 @@ export const NavBar = ({history}) => (
       </div>
     </div>
     <div className="home">
-      <a className='home-click' onClick={() => {
-        history.push('/')
-      }}>
+      <a
+        className="home-click"
+        onClick={() => {
+          history.push('/');
+        }}
+      >
         <div className="menu-item">Home Page</div>
       </a>
     </div>

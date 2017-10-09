@@ -10,7 +10,7 @@ describe('App', () => {
   it('App.js renders to the page', () => {
     const mockStore = configureStore();
     const component = shallow(
-      <App store={mockStore}/>,);
+      <App store={mockStore} />);
     expect(component).toMatchSnapshot();
   });
 });
