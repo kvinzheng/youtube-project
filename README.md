@@ -64,10 +64,12 @@ const store = createStore(reducer,
 );
 ```
 
-This is my api object.
+This is my api object. Notice that my api's role only make network request. api doesn't do any logic of fetching data or manipulating data
+
 <img src="./src/assets/api-object.png" width="600" />
 
-This is what my thunk with extra argument looks like
+This is what my thunk with extra argument looks like. I use my thunk to create three stages: PENDING, FULFULL, and REJECT
+
 <img src="./src/assets/thunk.png" width="600" />
 
 I hope you had a good time when reviewing this app. I am always open to any feedback.
