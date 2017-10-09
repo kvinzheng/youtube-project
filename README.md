@@ -11,10 +11,10 @@ This is a simple React/Redux application that let you search youtube videos.
 Screenshot:
 
 Home Page
-<img src="./src/assets/home.png" width="800"/>
+<img src="./src/assets/home.png" width="1000"/>
 
 Video Page
-<img src="./src/assets/video.png" width="800"/>
+<img src="./src/assets/video.png" width="1000"/>
 
 ## To Start App ##
 To utilize this repo, please do the following:
