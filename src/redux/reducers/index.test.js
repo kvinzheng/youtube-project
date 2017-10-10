@@ -3,9 +3,9 @@ import { emptySampleData } from '../../helpers/sample-data-test';
 
 describe('Index Reducer Tests', () => {
   const base = {
-    search: '',
-    selectedVideo: {},
-    youtubeData: [],
+    search: { picture: null },
+    selectedVideo: { video: null , status: null },
+    youtubeData: { myData: null, status: null },
   };
 
   it('it expect to handle dorData', () => {
